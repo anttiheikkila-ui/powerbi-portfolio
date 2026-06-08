@@ -4,13 +4,7 @@ Power BI dashboards and analytics projects inspired by real-world SAP logistics 
 
 ## About Me
 
-I'm a Logistics Specialist and ICT Engineering student with experience in:
-
-- SAP S/4HANA
-- Logistics and Supply Chain Operations
-- Power BI
-- Process Improvement
-- Data Analytics
+I'm a Logistics Specialist with 25 years of logistics experience and an ICT Engineering student focusing on data analytics, ERP systems and SAP S/4HANA.
 
 My goal is to combine logistics expertise with data-driven decision making and ERP consulting.
 
@@ -19,6 +13,8 @@ My goal is to combine logistics expertise with data-driven decision making and E
 ### Warehouse Performance Dashboard 🚧
 Inventory valuation, ABC classification, stock turnover and warehouse KPIs.
 
-**Tools:** Power BI, Power Query, DAX
+### Transportation Cost Dashboard 📋
+Carrier comparison, freight costs, transit times and logistics KPIs.
 
-Status: In Progress
+### SAP Logistics Control Tower 📋
+Procurement, inventory and transportation analytics inspired by SAP processes.
