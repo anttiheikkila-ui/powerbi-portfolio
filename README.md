@@ -10,7 +10,7 @@ My goal is to combine logistics expertise with data-driven decision making and E
 
 ## Projects
 
-### Warehouse Performance Dashboard 🚧
+### [Warehouse Performance Dashboard](./Warehouse-Dashboard) 🚧
 Inventory valuation, ABC classification, stock turnover and warehouse KPIs.
 
 ### Transportation Cost Dashboard 📋
