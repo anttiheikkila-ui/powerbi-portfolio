@@ -23,3 +23,11 @@ Companies often have significant capital tied up in inventory. This dashboard he
 ## Status
 
 🚧 Project under development
+
+## Dashboard Preview
+
+![Warehouse Overview](images/overview.png)
+
+## Data Model
+
+![Data Model](images/data_model.png)
