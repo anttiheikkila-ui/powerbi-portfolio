@@ -28,6 +28,10 @@ Companies often have significant capital tied up in inventory. This dashboard he
 
 ![Warehouse Overview](images/overview.png)
 
+## Inventory Analysis
+
+![Inventory Analysis](images/inventory_analysis.png)
+
 ## Data Model
 
 ![Data Model](images/data_model.png)
