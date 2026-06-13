@@ -4,7 +4,7 @@ Power BI dashboards and analytics projects inspired by real-world SAP logistics 
 
 ## About Me
 
-I'm a Logistics Specialist with 25 years of logistics experience and an ICT Engineering student focusing on data analytics, ERP systems and SAP S/4HANA.
+I'm a Logistics Specialist with 25 years of logistics experience focusing on data analytics, ERP systems and SAP S/4HANA.
 
 My goal is to combine logistics expertise with data-driven decision making and ERP consulting.
 
