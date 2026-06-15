@@ -1,7 +1,8 @@
-# DAX Measures
+# DAX Measures Summary
 
-## Total Stock
+## Executive Overview Measures
 
+### Total Stock
 Calculates the total inventory quantity across all warehouses.
 
 ```DAX
@@ -9,8 +10,7 @@ Total Stock =
 SUM(Inventory[StockQty])
 ```
 
-## Product Count
-
+### Product Count
 Counts the number of unique products.
 
 ```DAX
@@ -18,8 +18,7 @@ Product Count =
 DISTINCTCOUNT(Products[ProductID])
 ```
 
-## Inventory Value
-
+### Inventory Value
 Calculates the total inventory value.
 
 ```DAX
@@ -31,9 +30,25 @@ SUMX(
 )
 ```
 
-## Products Below Reorder Point
+### Total Goods Issues
+Calculates the total quantity of inventory issued from stock.
 
-Counts products that are below their reorder point.
+```DAX
+Total Goods Issues =
+ABS(
+    CALCULATE(
+        SUM(Transactions[Qty]),
+        Transactions[MovementType] = "Goods Issue"
+    )
+)
+```
+
+---
+
+## Inventory Analysis Measures
+
+### Products Below Reorder Point
+Counts products below reorder point.
 
 ```DAX
 Products Below Reorder Point =
@@ -45,9 +60,8 @@ COUNTROWS(
 )
 ```
 
-## Products Below Safety Stock
-
-Counts products that are below their safety stock level.
+### Products Below Safety Stock
+Counts products below safety stock.
 
 ```DAX
 Products Below Safety Stock =
@@ -59,9 +73,8 @@ COUNTROWS(
 )
 ```
 
-## Inventory Turnover
-
-Measures how efficiently inventory is moving.
+### Inventory Turnover
+Measures inventory movement efficiency.
 
 ```DAX
 Inventory Turnover =
@@ -71,9 +84,8 @@ DIVIDE(
 )
 ```
 
-## Inventory Health %
-
-Measures the percentage of products above reorder point.
+### Inventory Health %
+Measures inventory health based on reorder point compliance.
 
 ```DAX
 Inventory Health % =
@@ -83,3 +95,68 @@ DIVIDE(
 )
 ```
 
+### Reorder Gap
+Measures the difference between stock quantity and reorder point.
+
+```DAX
+Reorder Gap =
+SUM(Inventory[ReorderPoint]) -
+SUM(Inventory[StockQty])
+```
+
+---
+
+## Warehouse Operations Measures
+
+### Total Goods Receipts
+Calculates the total quantity of received inventory.
+
+```DAX
+Total Goods Receipts =
+CALCULATE(
+    SUM(Transactions[Qty]),
+    Transactions[MovementType] = "Goods Receipt"
+)
+```
+
+### Total Goods Issues
+Calculates the total quantity of issued inventory.
+
+```DAX
+Total Goods Issues =
+ABS(
+    CALCULATE(
+        SUM(Transactions[Qty]),
+        Transactions[MovementType] = "Goods Issue"
+    )
+)
+```
+
+### Total Transfers
+Calculates the total quantity of inventory transfers.
+
+```DAX
+Total Transfers =
+ABS(
+    CALCULATE(
+        SUM(Transactions[Qty]),
+        Transactions[MovementType] = "Transfer"
+    )
+)
+```
+
+### Inventory Adjustments
+Calculates inventory corrections and stock adjustments.
+
+```DAX
+Inventory Adjustments =
+COALESCE(
+    ABS(
+        CALCULATE(
+            SUM(Transactions[Qty]),
+            Transactions[MovementType] = "Adjustment"
+        )
+    ),
+    0
+)
+```
