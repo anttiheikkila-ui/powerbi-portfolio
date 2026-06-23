@@ -13,7 +13,7 @@ My goal is to combine logistics expertise with data-driven decision making and E
 ### [Warehouse Performance Dashboard](./Warehouse-Dashboard) 🚧
 Inventory valuation, ABC classification, stock turnover and warehouse KPIs.
 
-### Transportation Cost Dashboard 📋
+### [Transportation Cost Dashboard](./Transportation-Cost-Dashboard/) 🚧
 Carrier comparison, freight costs, transit times and logistics KPIs.
 
 ### SAP Logistics Control Tower 📋
