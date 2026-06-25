@@ -20,10 +20,6 @@ Companies often have significant capital tied up in inventory. This dashboard he
 - DAX
 - Excel
 
-## Status
-
-🚧 Project under development
-
 ## Dashboard Preview
 
 ![Warehouse Overview](images/overview.png)
