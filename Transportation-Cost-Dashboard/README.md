@@ -58,7 +58,3 @@ The solution is built using a dimensional star schema consisting of one fact tab
 - Interactive Slicers
 - Dimensional Star Schema
 - Custom DAX Measures
-
----
-
-## Repository Structure
