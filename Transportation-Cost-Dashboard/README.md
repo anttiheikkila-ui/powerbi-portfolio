@@ -62,22 +62,3 @@ The solution is built using a dimensional star schema consisting of one fact tab
 ---
 
 ## Repository Structure
-
-```text
-Transportation-Cost-Dashboard
-│
-├── data
-│   └── transportation_cost_mock_data.xlsx
-│
-├── documentation
-│   ├── dax_measures.md
-│   └── project_summary.md
-│
-├── images
-│   ├── Executive Overview.png
-│   ├── Carrier Performance.png
-│   ├── Route Overview.png
-│   └── Data Model.png
-│
-└── README.md
-```
