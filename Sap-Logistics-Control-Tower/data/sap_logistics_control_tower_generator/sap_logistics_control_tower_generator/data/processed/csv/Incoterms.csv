@@ -1,0 +1,7 @@
+﻿Incoterm,Description,SellerPaysFreight
+EXW,Ex Works,False
+FCA,Free Carrier,False
+CPT,Carriage Paid To,True
+CIP,Carriage and Insurance Paid To,True
+DAP,Delivered At Place,True
+DDP,Delivered Duty Paid,True

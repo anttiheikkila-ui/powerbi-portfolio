@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+~$*.xlsx
+*.tmp
+Thumbs.db
+Desktop.ini

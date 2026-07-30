@@ -1,0 +1,13 @@
+﻿CountryID,Country,Region,DistanceKm
+FI,Finland,Nordics,250
+SE,Sweden,Nordics,650
+NO,Norway,Nordics,900
+DK,Denmark,Nordics,1000
+DE,Germany,Central Europe,1650
+NL,Netherlands,Western Europe,1850
+PL,Poland,Central Europe,1450
+FR,France,Western Europe,2400
+IT,Italy,Southern Europe,2900
+ES,Spain,Southern Europe,3500
+US,United States,North America,7200
+CN,China,Asia,7700

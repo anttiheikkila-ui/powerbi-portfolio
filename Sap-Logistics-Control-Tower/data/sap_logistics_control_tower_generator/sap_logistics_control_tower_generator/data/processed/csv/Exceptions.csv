@@ -1,0 +1,1024 @@
+﻿ExceptionID,ExceptionDate,Process,ExceptionType,Severity,ReferenceID,Description,Status
+EXC000001,2025-02-24,Procurement,Overdue Purchase Order,High,PO4500000003,Purchase order delayed by 9 days,Open
+EXC000002,2026-04-29,Procurement,Overdue Purchase Order,High,PO4500000010,Purchase order delayed by 5 days,Open
+EXC000003,2026-05-21,Procurement,Overdue Purchase Order,High,PO4500000011,Purchase order delayed by 8 days,Open
+EXC000004,2025-05-29,Procurement,Overdue Purchase Order,High,PO4500000012,Purchase order delayed by 9 days,Open
+EXC000005,2026-01-07,Procurement,Overdue Purchase Order,Critical,PO4500000024,Purchase order delayed by 10 days,Open
+EXC000006,2026-05-10,Procurement,Missing Supplier Confirmation,Medium,PO4500000025,Supplier confirmation missing,Open
+EXC000007,2026-06-07,Procurement,Overdue Purchase Order,High,PO4500000030,Purchase order delayed by 6 days,Open
+EXC000008,2025-12-08,Procurement,Overdue Purchase Order,High,PO4500000034,Purchase order delayed by 8 days,Open
+EXC000009,2025-08-01,Procurement,Missing Supplier Confirmation,Medium,PO4500000041,Supplier confirmation missing,Open
+EXC000010,2025-05-14,Procurement,Missing Supplier Confirmation,Medium,PO4500000042,Supplier confirmation missing,Open
+EXC000011,2026-01-03,Procurement,Overdue Purchase Order,Critical,PO4500000069,Purchase order delayed by 11 days,Open
+EXC000012,2026-01-04,Procurement,Overdue Purchase Order,Critical,PO4500000079,Purchase order delayed by 16 days,Open
+EXC000013,2025-09-04,Procurement,Overdue Purchase Order,Critical,PO4500000082,Purchase order delayed by 10 days,Open
+EXC000014,2025-06-09,Procurement,Overdue Purchase Order,High,PO4500000086,Purchase order delayed by 3 days,Open
+EXC000015,2026-01-05,Procurement,Missing Supplier Confirmation,Medium,PO4500000093,Supplier confirmation missing,Open
+EXC000016,2026-05-04,Procurement,Overdue Purchase Order,Critical,PO4500000096,Purchase order delayed by 16 days,Open
+EXC000017,2026-01-01,Procurement,Overdue Purchase Order,Critical,PO4500000100,Purchase order delayed by 16 days,Open
+EXC000018,2026-05-09,Procurement,Overdue Purchase Order,Critical,PO4500000106,Purchase order delayed by 12 days,Open
+EXC000019,2025-11-23,Procurement,Missing Supplier Confirmation,Medium,PO4500000123,Supplier confirmation missing,Open
+EXC000020,2026-06-08,Procurement,Overdue Purchase Order,Critical,PO4500000125,Purchase order delayed by 15 days,Open
+EXC000021,2026-01-10,Procurement,Missing Supplier Confirmation,Medium,PO4500000130,Supplier confirmation missing,Open
+EXC000022,2026-02-04,Procurement,Overdue Purchase Order,Critical,PO4500000141,Purchase order delayed by 13 days,Open
+EXC000023,2025-02-23,Procurement,Missing Supplier Confirmation,Medium,PO4500000144,Supplier confirmation missing,Open
+EXC000024,2026-03-17,Procurement,Overdue Purchase Order,High,PO4500000147,Purchase order delayed by 6 days,Open
+EXC000025,2025-10-27,Procurement,Overdue Purchase Order,High,PO4500000148,Purchase order delayed by 1 days,Open
+EXC000026,2025-03-26,Procurement,Overdue Purchase Order,Critical,PO4500000162,Purchase order delayed by 16 days,Open
+EXC000027,2026-03-06,Procurement,Missing Supplier Confirmation,Medium,PO4500000167,Supplier confirmation missing,Open
+EXC000028,2025-11-19,Procurement,Overdue Purchase Order,High,PO4500000173,Purchase order delayed by 5 days,Open
+EXC000029,2025-10-05,Procurement,Overdue Purchase Order,High,PO4500000188,Purchase order delayed by 9 days,Open
+EXC000030,2026-06-19,Procurement,Overdue Purchase Order,High,PO4500000206,Purchase order delayed by 8 days,Open
+EXC000031,2026-03-19,Procurement,Overdue Purchase Order,Critical,PO4500000212,Purchase order delayed by 11 days,Open
+EXC000032,2025-12-29,Procurement,Overdue Purchase Order,Critical,PO4500000231,Purchase order delayed by 14 days,Open
+EXC000033,2026-06-18,Procurement,Overdue Purchase Order,High,PO4500000233,Purchase order delayed by 4 days,Open
+EXC000034,2025-12-28,Procurement,Overdue Purchase Order,High,PO4500000239,Purchase order delayed by 2 days,Open
+EXC000035,2025-12-18,Procurement,Missing Supplier Confirmation,Medium,PO4500000239,Supplier confirmation missing,Open
+EXC000036,2025-06-25,Procurement,Overdue Purchase Order,High,PO4500000241,Purchase order delayed by 9 days,Open
+EXC000037,2026-05-04,Procurement,Missing Supplier Confirmation,Medium,PO4500000243,Supplier confirmation missing,Open
+EXC000038,2025-06-03,Procurement,Overdue Purchase Order,Critical,PO4500000244,Purchase order delayed by 14 days,Open
+EXC000039,2025-06-24,Procurement,Overdue Purchase Order,Critical,PO4500000247,Purchase order delayed by 15 days,Open
+EXC000040,2025-01-25,Procurement,Overdue Purchase Order,Critical,PO4500000251,Purchase order delayed by 11 days,Open
+EXC000041,2025-02-26,Procurement,Missing Supplier Confirmation,Medium,PO4500000256,Supplier confirmation missing,Open
+EXC000042,2025-09-19,Procurement,Missing Supplier Confirmation,Medium,PO4500000260,Supplier confirmation missing,Open
+EXC000043,2026-04-24,Procurement,Overdue Purchase Order,High,PO4500000269,Purchase order delayed by 3 days,Open
+EXC000044,2026-04-19,Procurement,Overdue Purchase Order,High,PO4500000278,Purchase order delayed by 3 days,Open
+EXC000045,2026-05-12,Procurement,Missing Supplier Confirmation,Medium,PO4500000283,Supplier confirmation missing,Open
+EXC000046,2025-10-03,Procurement,Overdue Purchase Order,High,PO4500000285,Purchase order delayed by 4 days,Open
+EXC000047,2025-08-18,Procurement,Overdue Purchase Order,Critical,PO4500000288,Purchase order delayed by 16 days,Open
+EXC000048,2026-01-20,Procurement,Overdue Purchase Order,Critical,PO4500000291,Purchase order delayed by 12 days,Open
+EXC000049,2025-01-15,Procurement,Overdue Purchase Order,Critical,PO4500000294,Purchase order delayed by 13 days,Open
+EXC000050,2025-05-24,Procurement,Overdue Purchase Order,High,PO4500000295,Purchase order delayed by 5 days,Open
+EXC000051,2025-04-14,Procurement,Overdue Purchase Order,Critical,PO4500000296,Purchase order delayed by 11 days,Open
+EXC000052,2026-05-31,Procurement,Overdue Purchase Order,Critical,PO4500000298,Purchase order delayed by 12 days,Open
+EXC000053,2026-05-10,Procurement,Missing Supplier Confirmation,Medium,PO4500000301,Supplier confirmation missing,Open
+EXC000054,2025-08-29,Procurement,Overdue Purchase Order,Critical,PO4500000302,Purchase order delayed by 14 days,Open
+EXC000055,2025-12-01,Procurement,Overdue Purchase Order,High,PO4500000313,Purchase order delayed by 3 days,Open
+EXC000056,2026-04-22,Procurement,Overdue Purchase Order,High,PO4500000314,Purchase order delayed by 1 days,Open
+EXC000057,2025-05-20,Procurement,Overdue Purchase Order,High,PO4500000315,Purchase order delayed by 4 days,Open
+EXC000058,2025-06-26,Procurement,Overdue Purchase Order,High,PO4500000325,Purchase order delayed by 9 days,Open
+EXC000059,2025-09-14,Procurement,Overdue Purchase Order,High,PO4500000326,Purchase order delayed by 8 days,Open
+EXC000060,2025-08-08,Procurement,Missing Supplier Confirmation,Medium,PO4500000326,Supplier confirmation missing,Open
+EXC000061,2025-03-08,Procurement,Overdue Purchase Order,High,PO4500000339,Purchase order delayed by 5 days,Open
+EXC000062,2025-05-13,Procurement,Missing Supplier Confirmation,Medium,PO4500000342,Supplier confirmation missing,Open
+EXC000063,2025-07-24,Procurement,Missing Supplier Confirmation,Medium,PO4500000343,Supplier confirmation missing,Open
+EXC000064,2025-03-21,Procurement,Overdue Purchase Order,Critical,PO4500000345,Purchase order delayed by 10 days,Open
+EXC000065,2025-05-18,Procurement,Missing Supplier Confirmation,Medium,PO4500000346,Supplier confirmation missing,Open
+EXC000066,2025-04-17,Procurement,Overdue Purchase Order,High,PO4500000355,Purchase order delayed by 8 days,Open
+EXC000067,2025-07-09,Procurement,Overdue Purchase Order,Critical,PO4500000356,Purchase order delayed by 10 days,Open
+EXC000068,2026-06-02,Procurement,Overdue Purchase Order,High,PO4500000365,Purchase order delayed by 3 days,Open
+EXC000069,2026-05-23,Procurement,Missing Supplier Confirmation,Medium,PO4500000365,Supplier confirmation missing,Open
+EXC000070,2025-12-30,Procurement,Missing Supplier Confirmation,Medium,PO4500000371,Supplier confirmation missing,Open
+EXC000071,2026-07-11,Procurement,Overdue Purchase Order,High,PO4500000378,Purchase order delayed by 1 days,Open
+EXC000072,2025-05-14,Procurement,Missing Supplier Confirmation,Medium,PO4500000389,Supplier confirmation missing,Open
+EXC000073,2026-06-05,Procurement,Overdue Purchase Order,High,PO4500000393,Purchase order delayed by 1 days,Open
+EXC000074,2025-10-11,Procurement,Overdue Purchase Order,Critical,PO4500000394,Purchase order delayed by 11 days,Open
+EXC000075,2026-03-22,Procurement,Missing Supplier Confirmation,Medium,PO4500000398,Supplier confirmation missing,Open
+EXC000076,2026-06-27,Procurement,Overdue Purchase Order,High,PO4500000426,Purchase order delayed by 1 days,Open
+EXC000077,2026-05-16,Procurement,Overdue Purchase Order,High,PO4500000430,Purchase order delayed by 2 days,Open
+EXC000078,2025-09-03,Procurement,Overdue Purchase Order,Critical,PO4500000432,Purchase order delayed by 16 days,Open
+EXC000079,2026-02-23,Procurement,Missing Supplier Confirmation,Medium,PO4500000434,Supplier confirmation missing,Open
+EXC000080,2026-04-30,Procurement,Overdue Purchase Order,High,PO4500000447,Purchase order delayed by 1 days,Open
+EXC000081,2025-10-18,Procurement,Missing Supplier Confirmation,Medium,PO4500000475,Supplier confirmation missing,Open
+EXC000082,2025-12-09,Procurement,Overdue Purchase Order,Critical,PO4500000476,Purchase order delayed by 15 days,Open
+EXC000083,2026-03-17,Procurement,Overdue Purchase Order,Critical,PO4500000481,Purchase order delayed by 14 days,Open
+EXC000084,2026-06-08,Procurement,Overdue Purchase Order,Critical,PO4500000487,Purchase order delayed by 15 days,Open
+EXC000085,2026-05-26,Procurement,Missing Supplier Confirmation,Medium,PO4500000487,Supplier confirmation missing,Open
+EXC000086,2025-01-25,Procurement,Overdue Purchase Order,Critical,PO4500000493,Purchase order delayed by 16 days,Open
+EXC000087,2025-09-18,Procurement,Missing Supplier Confirmation,Medium,PO4500000512,Supplier confirmation missing,Open
+EXC000088,2026-05-28,Procurement,Overdue Purchase Order,High,PO4500000517,Purchase order delayed by 4 days,Open
+EXC000089,2026-02-28,Procurement,Missing Supplier Confirmation,Medium,PO4500000525,Supplier confirmation missing,Open
+EXC000090,2025-07-06,Procurement,Overdue Purchase Order,Critical,PO4500000526,Purchase order delayed by 15 days,Open
+EXC000091,2026-06-23,Procurement,Overdue Purchase Order,High,PO4500000533,Purchase order delayed by 4 days,Open
+EXC000092,2026-06-16,Procurement,Overdue Purchase Order,Critical,PO4500000534,Purchase order delayed by 18 days,Open
+EXC000093,2025-10-19,Procurement,Overdue Purchase Order,High,PO4500000536,Purchase order delayed by 9 days,Open
+EXC000094,2025-10-01,Procurement,Missing Supplier Confirmation,Medium,PO4500000543,Supplier confirmation missing,Open
+EXC000095,2025-12-09,Procurement,Overdue Purchase Order,High,PO4500000547,Purchase order delayed by 8 days,Open
+EXC000096,2025-04-22,Procurement,Missing Supplier Confirmation,Medium,PO4500000549,Supplier confirmation missing,Open
+EXC000097,2025-08-04,Procurement,Overdue Purchase Order,Critical,PO4500000562,Purchase order delayed by 12 days,Open
+EXC000098,2026-02-04,Procurement,Overdue Purchase Order,Critical,PO4500000566,Purchase order delayed by 16 days,Open
+EXC000099,2025-03-18,Procurement,Overdue Purchase Order,High,PO4500000574,Purchase order delayed by 9 days,Open
+EXC000100,2026-02-03,Procurement,Missing Supplier Confirmation,Medium,PO4500000575,Supplier confirmation missing,Open
+EXC000101,2025-04-25,Procurement,Missing Supplier Confirmation,Medium,PO4500000577,Supplier confirmation missing,Open
+EXC000102,2025-09-08,Procurement,Missing Supplier Confirmation,Medium,PO4500000584,Supplier confirmation missing,Open
+EXC000103,2026-04-06,Procurement,Overdue Purchase Order,Critical,PO4500000593,Purchase order delayed by 14 days,Open
+EXC000104,2025-12-30,Procurement,Overdue Purchase Order,High,PO4500000599,Purchase order delayed by 1 days,Open
+EXC000105,2026-01-28,Procurement,Missing Supplier Confirmation,Medium,PO4500000616,Supplier confirmation missing,Open
+EXC000106,2025-08-28,Procurement,Missing Supplier Confirmation,Medium,PO4500000618,Supplier confirmation missing,Open
+EXC000107,2025-08-13,Procurement,Missing Supplier Confirmation,Medium,PO4500000623,Supplier confirmation missing,Open
+EXC000108,2025-09-14,Procurement,Overdue Purchase Order,High,PO4500000624,Purchase order delayed by 4 days,Open
+EXC000109,2026-02-17,Procurement,Overdue Purchase Order,Critical,PO4500000635,Purchase order delayed by 12 days,Open
+EXC000110,2026-04-16,Procurement,Overdue Purchase Order,High,PO4500000637,Purchase order delayed by 1 days,Open
+EXC000111,2026-04-06,Procurement,Missing Supplier Confirmation,Medium,PO4500000637,Supplier confirmation missing,Open
+EXC000112,2025-10-03,Procurement,Overdue Purchase Order,High,PO4500000639,Purchase order delayed by 2 days,Open
+EXC000113,2025-06-03,Procurement,Overdue Purchase Order,Critical,PO4500000643,Purchase order delayed by 18 days,Open
+EXC000114,2025-01-30,Procurement,Overdue Purchase Order,High,PO4500000646,Purchase order delayed by 3 days,Open
+EXC000115,2025-09-13,Procurement,Overdue Purchase Order,High,PO4500000648,Purchase order delayed by 2 days,Open
+EXC000116,2025-03-25,Procurement,Overdue Purchase Order,Critical,PO4500000653,Purchase order delayed by 15 days,Open
+EXC000117,2025-07-09,Procurement,Overdue Purchase Order,High,PO4500000661,Purchase order delayed by 1 days,Open
+EXC000118,2025-01-02,Procurement,Missing Supplier Confirmation,Medium,PO4500000666,Supplier confirmation missing,Open
+EXC000119,2025-07-19,Procurement,Overdue Purchase Order,High,PO4500000680,Purchase order delayed by 5 days,Open
+EXC000120,2025-06-08,Procurement,Overdue Purchase Order,Critical,PO4500000683,Purchase order delayed by 11 days,Open
+EXC000121,2026-05-17,Procurement,Overdue Purchase Order,High,PO4500000685,Purchase order delayed by 5 days,Open
+EXC000122,2025-02-23,Procurement,Overdue Purchase Order,Critical,PO4500000694,Purchase order delayed by 10 days,Open
+EXC000123,2025-01-21,Procurement,Overdue Purchase Order,High,PO4500000698,Purchase order delayed by 6 days,Open
+EXC000124,2025-11-05,Procurement,Missing Supplier Confirmation,Medium,PO4500000701,Supplier confirmation missing,Open
+EXC000125,2025-10-15,Procurement,Overdue Purchase Order,Critical,PO4500000710,Purchase order delayed by 12 days,Open
+EXC000126,2025-01-18,Procurement,Overdue Purchase Order,High,PO4500000712,Purchase order delayed by 4 days,Open
+EXC000127,2025-02-18,Procurement,Overdue Purchase Order,High,PO4500000725,Purchase order delayed by 2 days,Open
+EXC000128,2026-01-02,Procurement,Overdue Purchase Order,High,PO4500000730,Purchase order delayed by 1 days,Open
+EXC000129,2025-03-09,Procurement,Missing Supplier Confirmation,Medium,PO4500000732,Supplier confirmation missing,Open
+EXC000130,2026-03-09,Procurement,Missing Supplier Confirmation,Medium,PO4500000733,Supplier confirmation missing,Open
+EXC000131,2026-04-24,Procurement,Missing Supplier Confirmation,Medium,PO4500000741,Supplier confirmation missing,Open
+EXC000132,2025-03-20,Procurement,Overdue Purchase Order,Critical,PO4500000747,Purchase order delayed by 14 days,Open
+EXC000133,2025-05-23,Procurement,Overdue Purchase Order,Critical,PO4500000761,Purchase order delayed by 14 days,Open
+EXC000134,2025-08-06,Procurement,Missing Supplier Confirmation,Medium,PO4500000770,Supplier confirmation missing,Open
+EXC000135,2026-05-13,Procurement,Overdue Purchase Order,High,PO4500000771,Purchase order delayed by 2 days,Open
+EXC000136,2025-05-06,Procurement,Overdue Purchase Order,High,PO4500000778,Purchase order delayed by 5 days,Open
+EXC000137,2026-06-18,Procurement,Overdue Purchase Order,High,PO4500000779,Purchase order delayed by 7 days,Open
+EXC000138,2025-04-28,Procurement,Overdue Purchase Order,High,PO4500000781,Purchase order delayed by 5 days,Open
+EXC000139,2026-04-12,Procurement,Overdue Purchase Order,Critical,PO4500000787,Purchase order delayed by 16 days,Open
+EXC000140,2026-01-16,Procurement,Overdue Purchase Order,Critical,PO4500000806,Purchase order delayed by 15 days,Open
+EXC000141,2025-03-09,Procurement,Overdue Purchase Order,Critical,PO4500000809,Purchase order delayed by 12 days,Open
+EXC000142,2025-10-02,Procurement,Overdue Purchase Order,Critical,PO4500000811,Purchase order delayed by 12 days,Open
+EXC000143,2025-10-30,Procurement,Missing Supplier Confirmation,Medium,PO4500000821,Supplier confirmation missing,Open
+EXC000144,2025-04-24,Procurement,Missing Supplier Confirmation,Medium,PO4500000826,Supplier confirmation missing,Open
+EXC000145,2026-03-13,Procurement,Overdue Purchase Order,High,PO4500000832,Purchase order delayed by 5 days,Open
+EXC000146,2026-01-20,Procurement,Overdue Purchase Order,High,PO4500000834,Purchase order delayed by 4 days,Open
+EXC000147,2025-03-30,Procurement,Overdue Purchase Order,Critical,PO4500000842,Purchase order delayed by 17 days,Open
+EXC000148,2025-07-10,Procurement,Overdue Purchase Order,High,PO4500000843,Purchase order delayed by 9 days,Open
+EXC000149,2026-05-24,Procurement,Overdue Purchase Order,Critical,PO4500000853,Purchase order delayed by 10 days,Open
+EXC000150,2026-02-01,Procurement,Overdue Purchase Order,High,PO4500000854,Purchase order delayed by 7 days,Open
+EXC000151,2025-12-01,Procurement,Overdue Purchase Order,Critical,PO4500000856,Purchase order delayed by 11 days,Open
+EXC000152,2026-01-08,Procurement,Overdue Purchase Order,Critical,PO4500000860,Purchase order delayed by 13 days,Open
+EXC000153,2025-08-23,Procurement,Overdue Purchase Order,Critical,PO4500000870,Purchase order delayed by 14 days,Open
+EXC000154,2025-08-24,Procurement,Overdue Purchase Order,High,PO4500000878,Purchase order delayed by 5 days,Open
+EXC000155,2025-08-26,Procurement,Overdue Purchase Order,High,PO4500000888,Purchase order delayed by 6 days,Open
+EXC000156,2025-10-09,Procurement,Overdue Purchase Order,High,PO4500000889,Purchase order delayed by 1 days,Open
+EXC000157,2026-04-19,Procurement,Overdue Purchase Order,High,PO4500000892,Purchase order delayed by 8 days,Open
+EXC000158,2025-05-18,Procurement,Missing Supplier Confirmation,Medium,PO4500000898,Supplier confirmation missing,Open
+EXC000159,2025-06-10,Procurement,Overdue Purchase Order,Critical,PO4500000903,Purchase order delayed by 18 days,Open
+EXC000160,2026-03-11,Procurement,Overdue Purchase Order,High,PO4500000910,Purchase order delayed by 7 days,Open
+EXC000161,2025-12-18,Procurement,Overdue Purchase Order,Critical,PO4500000917,Purchase order delayed by 16 days,Open
+EXC000162,2025-10-21,Procurement,Overdue Purchase Order,Critical,PO4500000920,Purchase order delayed by 18 days,Open
+EXC000163,2026-02-15,Procurement,Overdue Purchase Order,High,PO4500000932,Purchase order delayed by 4 days,Open
+EXC000164,2026-01-27,Procurement,Missing Supplier Confirmation,Medium,PO4500000937,Supplier confirmation missing,Open
+EXC000165,2025-04-02,Procurement,Overdue Purchase Order,Critical,PO4500000946,Purchase order delayed by 12 days,Open
+EXC000166,2026-05-08,Procurement,Missing Supplier Confirmation,Medium,PO4500000949,Supplier confirmation missing,Open
+EXC000167,2025-08-10,Procurement,Overdue Purchase Order,Critical,PO4500000958,Purchase order delayed by 13 days,Open
+EXC000168,2025-08-03,Procurement,Missing Supplier Confirmation,Medium,PO4500000958,Supplier confirmation missing,Open
+EXC000169,2026-02-13,Procurement,Missing Supplier Confirmation,Medium,PO4500000966,Supplier confirmation missing,Open
+EXC000170,2025-09-12,Procurement,Missing Supplier Confirmation,Medium,PO4500000968,Supplier confirmation missing,Open
+EXC000171,2025-07-03,Procurement,Overdue Purchase Order,High,PO4500000990,Purchase order delayed by 4 days,Open
+EXC000172,2026-02-02,Procurement,Overdue Purchase Order,High,PO4500001009,Purchase order delayed by 8 days,Open
+EXC000173,2025-04-03,Procurement,Missing Supplier Confirmation,Medium,PO4500001016,Supplier confirmation missing,Open
+EXC000174,2025-02-28,Procurement,Missing Supplier Confirmation,Medium,PO4500001024,Supplier confirmation missing,Open
+EXC000175,2026-05-25,Procurement,Overdue Purchase Order,High,PO4500001030,Purchase order delayed by 9 days,Open
+EXC000176,2025-01-22,Procurement,Missing Supplier Confirmation,Medium,PO4500001032,Supplier confirmation missing,Open
+EXC000177,2026-04-15,Procurement,Overdue Purchase Order,High,PO4500001033,Purchase order delayed by 1 days,Open
+EXC000178,2025-07-05,Procurement,Missing Supplier Confirmation,Medium,PO4500001036,Supplier confirmation missing,Open
+EXC000179,2025-08-25,Procurement,Missing Supplier Confirmation,Medium,PO4500001038,Supplier confirmation missing,Open
+EXC000180,2025-09-29,Procurement,Overdue Purchase Order,Critical,PO4500001041,Purchase order delayed by 12 days,Open
+EXC000181,2025-09-16,Procurement,Missing Supplier Confirmation,Medium,PO4500001041,Supplier confirmation missing,Open
+EXC000182,2026-01-29,Procurement,Missing Supplier Confirmation,Medium,PO4500001043,Supplier confirmation missing,Open
+EXC000183,2026-05-04,Procurement,Overdue Purchase Order,High,PO4500001045,Purchase order delayed by 7 days,Open
+EXC000184,2025-09-22,Procurement,Overdue Purchase Order,Critical,PO4500001046,Purchase order delayed by 18 days,Open
+EXC000185,2026-07-13,Procurement,Overdue Purchase Order,High,PO4500001051,Purchase order delayed by 1 days,Open
+EXC000186,2026-01-30,Procurement,Overdue Purchase Order,High,PO4500001057,Purchase order delayed by 9 days,Open
+EXC000187,2025-12-12,Procurement,Missing Supplier Confirmation,Medium,PO4500001083,Supplier confirmation missing,Open
+EXC000188,2025-01-29,Procurement,Missing Supplier Confirmation,Medium,PO4500001089,Supplier confirmation missing,Open
+EXC000189,2025-07-12,Procurement,Missing Supplier Confirmation,Medium,PO4500001090,Supplier confirmation missing,Open
+EXC000190,2026-04-04,Procurement,Missing Supplier Confirmation,Medium,PO4500001096,Supplier confirmation missing,Open
+EXC000191,2025-04-24,Procurement,Overdue Purchase Order,Critical,PO4500001106,Purchase order delayed by 13 days,Open
+EXC000192,2026-03-26,Procurement,Overdue Purchase Order,High,PO4500001109,Purchase order delayed by 7 days,Open
+EXC000193,2026-01-10,Procurement,Overdue Purchase Order,Critical,PO4500001113,Purchase order delayed by 13 days,Open
+EXC000194,2026-03-02,Procurement,Overdue Purchase Order,Critical,PO4500001129,Purchase order delayed by 17 days,Open
+EXC000195,2026-03-06,Procurement,Missing Supplier Confirmation,Medium,PO4500001137,Supplier confirmation missing,Open
+EXC000196,2025-10-01,Procurement,Overdue Purchase Order,High,PO4500001139,Purchase order delayed by 7 days,Open
+EXC000197,2025-11-16,Procurement,Overdue Purchase Order,High,PO4500001143,Purchase order delayed by 4 days,Open
+EXC000198,2025-10-19,Procurement,Missing Supplier Confirmation,Medium,PO4500001153,Supplier confirmation missing,Open
+EXC000199,2025-01-15,Procurement,Overdue Purchase Order,High,PO4500001158,Purchase order delayed by 2 days,Open
+EXC000200,2025-01-06,Procurement,Missing Supplier Confirmation,Medium,PO4500001158,Supplier confirmation missing,Open
+EXC000201,2026-06-20,Procurement,Overdue Purchase Order,Critical,PO4500001164,Purchase order delayed by 10 days,Open
+EXC000202,2025-04-20,Procurement,Missing Supplier Confirmation,Medium,PO4500001167,Supplier confirmation missing,Open
+EXC000203,2026-03-20,Procurement,Missing Supplier Confirmation,Medium,PO4500001171,Supplier confirmation missing,Open
+EXC000204,2026-01-29,Procurement,Overdue Purchase Order,High,PO4500001177,Purchase order delayed by 1 days,Open
+EXC000205,2025-12-27,Procurement,Missing Supplier Confirmation,Medium,PO4500001177,Supplier confirmation missing,Open
+EXC000206,2026-04-13,Procurement,Overdue Purchase Order,Critical,PO4500001183,Purchase order delayed by 17 days,Open
+EXC000207,2026-03-22,Procurement,Overdue Purchase Order,High,PO4500001184,Purchase order delayed by 9 days,Open
+EXC000208,2025-06-16,Procurement,Missing Supplier Confirmation,Medium,PO4500001187,Supplier confirmation missing,Open
+EXC000209,2025-05-07,Procurement,Missing Supplier Confirmation,Medium,PO4500001188,Supplier confirmation missing,Open
+EXC000210,2026-04-26,Procurement,Overdue Purchase Order,High,PO4500001198,Purchase order delayed by 3 days,Open
+EXC000211,2025-12-10,Procurement,Overdue Purchase Order,High,PO4500001211,Purchase order delayed by 3 days,Open
+EXC000212,2026-07-11,Procurement,Overdue Purchase Order,High,PO4500001212,Purchase order delayed by 1 days,Open
+EXC000213,2025-02-09,Procurement,Overdue Purchase Order,Critical,PO4500001216,Purchase order delayed by 11 days,Open
+EXC000214,2025-07-24,Procurement,Overdue Purchase Order,Critical,PO4500001220,Purchase order delayed by 16 days,Open
+EXC000215,2025-12-10,Procurement,Overdue Purchase Order,High,PO4500001226,Purchase order delayed by 2 days,Open
+EXC000216,2025-09-13,Procurement,Missing Supplier Confirmation,Medium,PO4500001233,Supplier confirmation missing,Open
+EXC000217,2025-09-17,Procurement,Overdue Purchase Order,High,PO4500001234,Purchase order delayed by 5 days,Open
+EXC000218,2025-09-08,Procurement,Missing Supplier Confirmation,Medium,PO4500001236,Supplier confirmation missing,Open
+EXC000219,2025-08-18,Procurement,Missing Supplier Confirmation,Medium,PO4500001241,Supplier confirmation missing,Open
+EXC000220,2025-02-05,Procurement,Overdue Purchase Order,Critical,PO4500001242,Purchase order delayed by 11 days,Open
+EXC000221,2025-05-31,Procurement,Overdue Purchase Order,High,PO4500001245,Purchase order delayed by 9 days,Open
+EXC000222,2025-04-28,Procurement,Missing Supplier Confirmation,Medium,PO4500001251,Supplier confirmation missing,Open
+EXC000223,2026-01-04,Procurement,Missing Supplier Confirmation,Medium,PO4500001255,Supplier confirmation missing,Open
+EXC000224,2025-05-21,Procurement,Overdue Purchase Order,High,PO4500001268,Purchase order delayed by 2 days,Open
+EXC000225,2026-06-05,Procurement,Missing Supplier Confirmation,Medium,PO4500001271,Supplier confirmation missing,Open
+EXC000226,2026-06-14,Procurement,Overdue Purchase Order,Critical,PO4500001272,Purchase order delayed by 14 days,Open
+EXC000227,2025-10-13,Procurement,Missing Supplier Confirmation,Medium,PO4500001275,Supplier confirmation missing,Open
+EXC000228,2025-05-19,Procurement,Overdue Purchase Order,Critical,PO4500001277,Purchase order delayed by 10 days,Open
+EXC000229,2025-04-20,Procurement,Overdue Purchase Order,High,PO4500001283,Purchase order delayed by 7 days,Open
+EXC000230,2025-07-13,Procurement,Overdue Purchase Order,High,PO4500001285,Purchase order delayed by 8 days,Open
+EXC000231,2026-02-12,Procurement,Missing Supplier Confirmation,Medium,PO4500001288,Supplier confirmation missing,Open
+EXC000232,2025-05-25,Procurement,Missing Supplier Confirmation,Medium,PO4500001305,Supplier confirmation missing,Open
+EXC000233,2025-06-15,Procurement,Missing Supplier Confirmation,Medium,PO4500001309,Supplier confirmation missing,Open
+EXC000234,2026-05-15,Procurement,Overdue Purchase Order,Critical,PO4500001320,Purchase order delayed by 11 days,Open
+EXC000235,2025-09-11,Procurement,Overdue Purchase Order,High,PO4500001323,Purchase order delayed by 9 days,Open
+EXC000236,2026-04-11,Procurement,Missing Supplier Confirmation,Medium,PO4500001329,Supplier confirmation missing,Open
+EXC000237,2025-06-06,Procurement,Missing Supplier Confirmation,Medium,PO4500001330,Supplier confirmation missing,Open
+EXC000238,2025-01-24,Procurement,Overdue Purchase Order,Critical,PO4500001333,Purchase order delayed by 13 days,Open
+EXC000239,2025-09-10,Procurement,Overdue Purchase Order,Critical,PO4500001342,Purchase order delayed by 14 days,Open
+EXC000240,2025-02-09,Procurement,Overdue Purchase Order,Critical,PO4500001344,Purchase order delayed by 17 days,Open
+EXC000241,2025-09-12,Procurement,Overdue Purchase Order,Critical,PO4500001353,Purchase order delayed by 14 days,Open
+EXC000242,2026-01-31,Procurement,Overdue Purchase Order,High,PO4500001355,Purchase order delayed by 8 days,Open
+EXC000243,2026-01-14,Procurement,Overdue Purchase Order,High,PO4500001365,Purchase order delayed by 9 days,Open
+EXC000244,2025-02-19,Procurement,Missing Supplier Confirmation,Medium,PO4500001366,Supplier confirmation missing,Open
+EXC000245,2025-08-10,Procurement,Overdue Purchase Order,High,PO4500001373,Purchase order delayed by 9 days,Open
+EXC000246,2025-11-01,Procurement,Overdue Purchase Order,Critical,PO4500001374,Purchase order delayed by 17 days,Open
+EXC000247,2025-02-16,Procurement,Missing Supplier Confirmation,Medium,PO4500001376,Supplier confirmation missing,Open
+EXC000248,2026-03-13,Procurement,Overdue Purchase Order,High,PO4500001383,Purchase order delayed by 1 days,Open
+EXC000249,2025-06-28,Procurement,Overdue Purchase Order,High,PO4500001388,Purchase order delayed by 6 days,Open
+EXC000250,2026-04-15,Procurement,Overdue Purchase Order,High,PO4500001394,Purchase order delayed by 6 days,Open
+EXC000251,2026-05-06,Procurement,Overdue Purchase Order,High,PO4500001396,Purchase order delayed by 3 days,Open
+EXC000252,2026-02-01,Procurement,Overdue Purchase Order,Critical,PO4500001407,Purchase order delayed by 16 days,Open
+EXC000253,2025-03-30,Procurement,Overdue Purchase Order,High,PO4500001411,Purchase order delayed by 2 days,Open
+EXC000254,2025-07-07,Procurement,Missing Supplier Confirmation,Medium,PO4500001412,Supplier confirmation missing,Open
+EXC000255,2025-08-30,Procurement,Overdue Purchase Order,Critical,PO4500001425,Purchase order delayed by 16 days,Open
+EXC000256,2025-03-16,Procurement,Overdue Purchase Order,Critical,PO4500001427,Purchase order delayed by 12 days,Open
+EXC000257,2025-02-26,Procurement,Missing Supplier Confirmation,Medium,PO4500001427,Supplier confirmation missing,Open
+EXC000258,2025-12-20,Procurement,Overdue Purchase Order,Critical,PO4500001435,Purchase order delayed by 12 days,Open
+EXC000259,2026-04-30,Procurement,Overdue Purchase Order,Critical,PO4500001438,Purchase order delayed by 17 days,Open
+EXC000260,2026-03-28,Procurement,Overdue Purchase Order,Critical,PO4500001442,Purchase order delayed by 13 days,Open
+EXC000261,2026-03-19,Procurement,Missing Supplier Confirmation,Medium,PO4500001442,Supplier confirmation missing,Open
+EXC000262,2025-12-29,Procurement,Overdue Purchase Order,Critical,PO4500001446,Purchase order delayed by 11 days,Open
+EXC000263,2026-03-24,Procurement,Overdue Purchase Order,High,PO4500001447,Purchase order delayed by 8 days,Open
+EXC000264,2026-06-16,Procurement,Overdue Purchase Order,Critical,PO4500001450,Purchase order delayed by 17 days,Open
+EXC000265,2025-01-27,Procurement,Missing Supplier Confirmation,Medium,PO4500001459,Supplier confirmation missing,Open
+EXC000266,2026-06-18,Procurement,Overdue Purchase Order,Critical,PO4500001470,Purchase order delayed by 11 days,Open
+EXC000267,2026-03-17,Procurement,Overdue Purchase Order,Critical,PO4500001478,Purchase order delayed by 15 days,Open
+EXC000268,2025-09-01,Procurement,Overdue Purchase Order,High,PO4500001481,Purchase order delayed by 9 days,Open
+EXC000269,2025-11-07,Procurement,Overdue Purchase Order,High,PO4500001494,Purchase order delayed by 1 days,Open
+EXC000270,2026-01-05,Procurement,Overdue Purchase Order,High,PO4500001495,Purchase order delayed by 8 days,Open
+EXC000271,2025-03-29,Procurement,Overdue Purchase Order,High,PO4500001508,Purchase order delayed by 5 days,Open
+EXC000272,2025-03-02,Procurement,Missing Supplier Confirmation,Medium,PO4500001521,Supplier confirmation missing,Open
+EXC000273,2025-08-07,Procurement,Overdue Purchase Order,High,PO4500001524,Purchase order delayed by 6 days,Open
+EXC000274,2025-07-01,Procurement,Missing Supplier Confirmation,Medium,PO4500001524,Supplier confirmation missing,Open
+EXC000275,2026-05-31,Procurement,Missing Supplier Confirmation,Medium,PO4500001546,Supplier confirmation missing,Open
+EXC000276,2025-12-16,Procurement,Missing Supplier Confirmation,Medium,PO4500001547,Supplier confirmation missing,Open
+EXC000277,2025-06-24,Procurement,Overdue Purchase Order,Critical,PO4500001548,Purchase order delayed by 17 days,Open
+EXC000278,2025-09-21,Procurement,Missing Supplier Confirmation,Medium,PO4500001556,Supplier confirmation missing,Open
+EXC000279,2025-09-01,Procurement,Overdue Purchase Order,High,PO4500001557,Purchase order delayed by 5 days,Open
+EXC000280,2026-02-11,Procurement,Overdue Purchase Order,Critical,PO4500001562,Purchase order delayed by 14 days,Open
+EXC000281,2025-06-19,Procurement,Overdue Purchase Order,High,PO4500001568,Purchase order delayed by 5 days,Open
+EXC000282,2025-05-26,Procurement,Overdue Purchase Order,High,PO4500001573,Purchase order delayed by 7 days,Open
+EXC000283,2025-06-15,Procurement,Overdue Purchase Order,High,PO4500001579,Purchase order delayed by 9 days,Open
+EXC000284,2025-08-11,Procurement,Missing Supplier Confirmation,Medium,PO4500001596,Supplier confirmation missing,Open
+EXC000285,2026-04-02,Procurement,Overdue Purchase Order,High,PO4500001598,Purchase order delayed by 6 days,Open
+EXC000286,2026-06-30,Inventory,Below Reorder Point,High,MAT100001-WH03,Below Reorder Point,Open
+EXC000287,2026-06-30,Inventory,Below Reorder Point,High,MAT100002-WH01,Below Reorder Point,Open
+EXC000288,2026-06-30,Inventory,Below Reorder Point,High,MAT100005-WH01,Below Reorder Point,Open
+EXC000289,2026-06-30,Inventory,Below Reorder Point,High,MAT100006-WH02,Below Reorder Point,Open
+EXC000290,2026-06-30,Inventory,Below Reorder Point,High,MAT100008-WH02,Below Reorder Point,Open
+EXC000291,2026-06-30,Inventory,Below Reorder Point,High,MAT100009-WH02,Below Reorder Point,Open
+EXC000292,2026-06-30,Inventory,Below Reorder Point,High,MAT100009-WH03,Below Reorder Point,Open
+EXC000293,2026-06-30,Inventory,Below Reorder Point,High,MAT100010-WH01,Below Reorder Point,Open
+EXC000294,2026-06-30,Inventory,Below Reorder Point,High,MAT100010-WH02,Below Reorder Point,Open
+EXC000295,2026-06-30,Inventory,Below Reorder Point,High,MAT100011-WH02,Below Reorder Point,Open
+EXC000296,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100011-WH03,Below Safety Stock,Open
+EXC000297,2026-06-30,Inventory,Below Reorder Point,High,MAT100013-WH01,Below Reorder Point,Open
+EXC000298,2026-06-30,Inventory,Below Reorder Point,High,MAT100013-WH03,Below Reorder Point,Open
+EXC000299,2026-06-30,Inventory,Below Reorder Point,High,MAT100014-WH01,Below Reorder Point,Open
+EXC000300,2026-06-30,Inventory,Below Reorder Point,High,MAT100016-WH01,Below Reorder Point,Open
+EXC000301,2026-06-30,Inventory,Below Reorder Point,High,MAT100016-WH03,Below Reorder Point,Open
+EXC000302,2026-06-30,Inventory,Below Reorder Point,High,MAT100017-WH01,Below Reorder Point,Open
+EXC000303,2026-06-30,Inventory,Below Reorder Point,High,MAT100017-WH02,Below Reorder Point,Open
+EXC000304,2026-06-30,Inventory,Below Reorder Point,High,MAT100018-WH03,Below Reorder Point,Open
+EXC000305,2026-06-30,Inventory,Below Reorder Point,High,MAT100019-WH02,Below Reorder Point,Open
+EXC000306,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100019-WH03,Below Safety Stock,Open
+EXC000307,2026-06-30,Inventory,Below Reorder Point,High,MAT100021-WH03,Below Reorder Point,Open
+EXC000308,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100023-WH01,Below Safety Stock,Open
+EXC000309,2026-06-30,Inventory,Below Reorder Point,High,MAT100023-WH03,Below Reorder Point,Open
+EXC000310,2026-06-30,Inventory,Below Reorder Point,High,MAT100024-WH03,Below Reorder Point,Open
+EXC000311,2026-06-30,Inventory,Below Reorder Point,High,MAT100026-WH03,Below Reorder Point,Open
+EXC000312,2026-06-30,Inventory,Below Reorder Point,High,MAT100027-WH03,Below Reorder Point,Open
+EXC000313,2026-06-30,Inventory,Below Reorder Point,High,MAT100028-WH03,Below Reorder Point,Open
+EXC000314,2026-06-30,Inventory,Below Reorder Point,High,MAT100029-WH01,Below Reorder Point,Open
+EXC000315,2026-06-30,Inventory,Below Reorder Point,High,MAT100029-WH03,Below Reorder Point,Open
+EXC000316,2026-06-30,Inventory,Below Reorder Point,High,MAT100030-WH01,Below Reorder Point,Open
+EXC000317,2026-06-30,Inventory,Below Reorder Point,High,MAT100030-WH02,Below Reorder Point,Open
+EXC000318,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100031-WH01,Below Safety Stock,Open
+EXC000319,2026-06-30,Inventory,Below Reorder Point,High,MAT100031-WH02,Below Reorder Point,Open
+EXC000320,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100032-WH01,Below Safety Stock,Open
+EXC000321,2026-06-30,Inventory,Below Reorder Point,High,MAT100033-WH01,Below Reorder Point,Open
+EXC000322,2026-06-30,Inventory,Below Reorder Point,High,MAT100034-WH01,Below Reorder Point,Open
+EXC000323,2026-06-30,Inventory,Below Reorder Point,High,MAT100034-WH02,Below Reorder Point,Open
+EXC000324,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100036-WH02,Below Safety Stock,Open
+EXC000325,2026-06-30,Inventory,Below Reorder Point,High,MAT100036-WH03,Below Reorder Point,Open
+EXC000326,2026-06-30,Inventory,Below Reorder Point,High,MAT100037-WH01,Below Reorder Point,Open
+EXC000327,2026-06-30,Inventory,Below Reorder Point,High,MAT100040-WH02,Below Reorder Point,Open
+EXC000328,2026-06-30,Inventory,Below Reorder Point,High,MAT100041-WH01,Below Reorder Point,Open
+EXC000329,2026-06-30,Inventory,Below Reorder Point,High,MAT100041-WH02,Below Reorder Point,Open
+EXC000330,2026-06-30,Inventory,Below Reorder Point,High,MAT100042-WH01,Below Reorder Point,Open
+EXC000331,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100042-WH02,Below Safety Stock,Open
+EXC000332,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100044-WH02,Below Safety Stock,Open
+EXC000333,2026-06-30,Inventory,Below Reorder Point,High,MAT100046-WH02,Below Reorder Point,Open
+EXC000334,2026-06-30,Inventory,Below Reorder Point,High,MAT100046-WH03,Below Reorder Point,Open
+EXC000335,2026-06-30,Inventory,Below Reorder Point,High,MAT100048-WH02,Below Reorder Point,Open
+EXC000336,2026-06-30,Inventory,Below Reorder Point,High,MAT100050-WH03,Below Reorder Point,Open
+EXC000337,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100051-WH01,Below Safety Stock,Open
+EXC000338,2026-06-30,Inventory,Below Reorder Point,High,MAT100051-WH02,Below Reorder Point,Open
+EXC000339,2026-06-30,Inventory,Below Reorder Point,High,MAT100052-WH02,Below Reorder Point,Open
+EXC000340,2026-06-30,Inventory,Below Reorder Point,High,MAT100053-WH01,Below Reorder Point,Open
+EXC000341,2026-06-30,Inventory,Below Reorder Point,High,MAT100053-WH02,Below Reorder Point,Open
+EXC000342,2026-06-30,Inventory,Below Reorder Point,High,MAT100054-WH01,Below Reorder Point,Open
+EXC000343,2026-06-30,Inventory,Below Reorder Point,High,MAT100054-WH03,Below Reorder Point,Open
+EXC000344,2026-06-30,Inventory,Below Reorder Point,High,MAT100055-WH03,Below Reorder Point,Open
+EXC000345,2026-06-30,Inventory,Below Reorder Point,High,MAT100056-WH02,Below Reorder Point,Open
+EXC000346,2026-06-30,Inventory,Below Reorder Point,High,MAT100058-WH02,Below Reorder Point,Open
+EXC000347,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100058-WH03,Below Safety Stock,Open
+EXC000348,2026-06-30,Inventory,Below Reorder Point,High,MAT100059-WH01,Below Reorder Point,Open
+EXC000349,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100059-WH02,Below Safety Stock,Open
+EXC000350,2026-06-30,Inventory,Below Reorder Point,High,MAT100060-WH03,Below Reorder Point,Open
+EXC000351,2026-06-30,Inventory,Below Reorder Point,High,MAT100061-WH02,Below Reorder Point,Open
+EXC000352,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100062-WH02,Below Safety Stock,Open
+EXC000353,2026-06-30,Inventory,Below Reorder Point,High,MAT100062-WH03,Below Reorder Point,Open
+EXC000354,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100063-WH01,Below Safety Stock,Open
+EXC000355,2026-06-30,Inventory,Below Reorder Point,High,MAT100065-WH01,Below Reorder Point,Open
+EXC000356,2026-06-30,Inventory,Below Reorder Point,High,MAT100069-WH02,Below Reorder Point,Open
+EXC000357,2026-06-30,Inventory,Below Reorder Point,High,MAT100069-WH03,Below Reorder Point,Open
+EXC000358,2026-06-30,Inventory,Below Reorder Point,High,MAT100071-WH02,Below Reorder Point,Open
+EXC000359,2026-06-30,Inventory,Below Reorder Point,High,MAT100072-WH02,Below Reorder Point,Open
+EXC000360,2026-06-30,Inventory,Below Reorder Point,High,MAT100073-WH01,Below Reorder Point,Open
+EXC000361,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100073-WH02,Below Safety Stock,Open
+EXC000362,2026-06-30,Inventory,Below Reorder Point,High,MAT100075-WH03,Below Reorder Point,Open
+EXC000363,2026-06-30,Inventory,Below Reorder Point,High,MAT100076-WH01,Below Reorder Point,Open
+EXC000364,2026-06-30,Inventory,Below Reorder Point,High,MAT100076-WH02,Below Reorder Point,Open
+EXC000365,2026-06-30,Inventory,Below Reorder Point,High,MAT100076-WH03,Below Reorder Point,Open
+EXC000366,2026-06-30,Inventory,Below Reorder Point,High,MAT100077-WH03,Below Reorder Point,Open
+EXC000367,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100078-WH01,Below Safety Stock,Open
+EXC000368,2026-06-30,Inventory,Below Reorder Point,High,MAT100079-WH01,Below Reorder Point,Open
+EXC000369,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100079-WH02,Below Safety Stock,Open
+EXC000370,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100080-WH01,Below Safety Stock,Open
+EXC000371,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100082-WH01,Below Safety Stock,Open
+EXC000372,2026-06-30,Inventory,Below Reorder Point,High,MAT100083-WH02,Below Reorder Point,Open
+EXC000373,2026-06-30,Inventory,Below Reorder Point,High,MAT100084-WH01,Below Reorder Point,Open
+EXC000374,2026-06-30,Inventory,Below Reorder Point,High,MAT100085-WH01,Below Reorder Point,Open
+EXC000375,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100085-WH02,Below Safety Stock,Open
+EXC000376,2026-06-30,Inventory,Below Reorder Point,High,MAT100085-WH03,Below Reorder Point,Open
+EXC000377,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100086-WH03,Below Safety Stock,Open
+EXC000378,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100087-WH03,Below Safety Stock,Open
+EXC000379,2026-06-30,Inventory,Below Reorder Point,High,MAT100088-WH01,Below Reorder Point,Open
+EXC000380,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100089-WH01,Below Safety Stock,Open
+EXC000381,2026-06-30,Inventory,Below Reorder Point,High,MAT100089-WH02,Below Reorder Point,Open
+EXC000382,2026-06-30,Inventory,Below Reorder Point,High,MAT100090-WH01,Below Reorder Point,Open
+EXC000383,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100091-WH02,Below Safety Stock,Open
+EXC000384,2026-06-30,Inventory,Below Reorder Point,High,MAT100093-WH02,Below Reorder Point,Open
+EXC000385,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100093-WH03,Below Safety Stock,Open
+EXC000386,2026-06-30,Inventory,Below Reorder Point,High,MAT100094-WH01,Below Reorder Point,Open
+EXC000387,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100094-WH02,Below Safety Stock,Open
+EXC000388,2026-06-30,Inventory,Below Reorder Point,High,MAT100094-WH03,Below Reorder Point,Open
+EXC000389,2026-06-30,Inventory,Below Reorder Point,High,MAT100095-WH01,Below Reorder Point,Open
+EXC000390,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100095-WH03,Below Safety Stock,Open
+EXC000391,2026-06-30,Inventory,Below Reorder Point,High,MAT100096-WH02,Below Reorder Point,Open
+EXC000392,2026-06-30,Inventory,Below Reorder Point,High,MAT100096-WH03,Below Reorder Point,Open
+EXC000393,2026-06-30,Inventory,Below Reorder Point,High,MAT100099-WH01,Below Reorder Point,Open
+EXC000394,2026-06-30,Inventory,Below Reorder Point,High,MAT100099-WH02,Below Reorder Point,Open
+EXC000395,2026-06-30,Inventory,Below Reorder Point,High,MAT100101-WH03,Below Reorder Point,Open
+EXC000396,2026-06-30,Inventory,Below Reorder Point,High,MAT100102-WH02,Below Reorder Point,Open
+EXC000397,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100103-WH01,Below Safety Stock,Open
+EXC000398,2026-06-30,Inventory,Below Reorder Point,High,MAT100103-WH03,Below Reorder Point,Open
+EXC000399,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100104-WH01,Below Safety Stock,Open
+EXC000400,2026-06-30,Inventory,Below Reorder Point,High,MAT100104-WH02,Below Reorder Point,Open
+EXC000401,2026-06-30,Inventory,Below Reorder Point,High,MAT100105-WH01,Below Reorder Point,Open
+EXC000402,2026-06-30,Inventory,Below Reorder Point,High,MAT100109-WH02,Below Reorder Point,Open
+EXC000403,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100110-WH03,Below Safety Stock,Open
+EXC000404,2026-06-30,Inventory,Below Reorder Point,High,MAT100111-WH01,Below Reorder Point,Open
+EXC000405,2026-06-30,Inventory,Below Reorder Point,High,MAT100111-WH02,Below Reorder Point,Open
+EXC000406,2026-06-30,Inventory,Below Reorder Point,High,MAT100113-WH01,Below Reorder Point,Open
+EXC000407,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100114-WH01,Below Safety Stock,Open
+EXC000408,2026-06-30,Inventory,Below Reorder Point,High,MAT100115-WH01,Below Reorder Point,Open
+EXC000409,2026-06-30,Inventory,Below Reorder Point,High,MAT100115-WH02,Below Reorder Point,Open
+EXC000410,2026-06-30,Inventory,Below Reorder Point,High,MAT100116-WH01,Below Reorder Point,Open
+EXC000411,2026-06-30,Inventory,Below Safety Stock,Critical,MAT100116-WH02,Below Safety Stock,Open
+EXC000412,2026-06-30,Inventory,Below Reorder Point,High,MAT100117-WH01,Below Reorder Point,Open
+EXC000413,2026-06-30,Inventory,Below Reorder Point,High,MAT100119-WH03,Below Reorder Point,Open
+EXC000414,2026-06-30,Inventory,Below Reorder Point,High,MAT100120-WH01,Below Reorder Point,Open
+EXC000415,2026-05-26,Delivery,OTIF Failure,Medium,DLV800000002,Delivery failed on-time-in-full requirement,Open
+EXC000416,2025-12-08,Delivery,OTIF Failure,Medium,DLV800000005,Delivery failed on-time-in-full requirement,Open
+EXC000417,2025-11-02,Delivery,OTIF Failure,High,DLV800000006,Delivery failed on-time-in-full requirement,Open
+EXC000418,2025-08-29,Delivery,OTIF Failure,High,DLV800000007,Delivery failed on-time-in-full requirement,Open
+EXC000419,2025-11-11,Delivery,OTIF Failure,Medium,DLV800000009,Delivery failed on-time-in-full requirement,Open
+EXC000420,2025-10-28,Delivery,OTIF Failure,Medium,DLV800000011,Delivery failed on-time-in-full requirement,Open
+EXC000421,2025-06-09,Delivery,OTIF Failure,Medium,DLV800000012,Delivery failed on-time-in-full requirement,Open
+EXC000422,2026-02-04,Delivery,OTIF Failure,Medium,DLV800000015,Delivery failed on-time-in-full requirement,Open
+EXC000423,2026-05-23,Delivery,OTIF Failure,Medium,DLV800000016,Delivery failed on-time-in-full requirement,Open
+EXC000424,2026-03-10,Delivery,OTIF Failure,High,DLV800000017,Delivery failed on-time-in-full requirement,Open
+EXC000425,2025-05-07,Delivery,OTIF Failure,Medium,DLV800000021,Delivery failed on-time-in-full requirement,Open
+EXC000426,2026-02-14,Delivery,OTIF Failure,High,DLV800000028,Delivery failed on-time-in-full requirement,Open
+EXC000427,2026-05-01,Delivery,OTIF Failure,Medium,DLV800000032,Delivery failed on-time-in-full requirement,Open
+EXC000428,2026-04-29,Delivery,OTIF Failure,Medium,DLV800000037,Delivery failed on-time-in-full requirement,Open
+EXC000429,2025-06-12,Delivery,OTIF Failure,Medium,DLV800000045,Delivery failed on-time-in-full requirement,Open
+EXC000430,2025-10-31,Delivery,OTIF Failure,Medium,DLV800000047,Delivery failed on-time-in-full requirement,Open
+EXC000431,2025-08-15,Delivery,OTIF Failure,Medium,DLV800000050,Delivery failed on-time-in-full requirement,Open
+EXC000432,2025-07-16,Delivery,OTIF Failure,Medium,DLV800000052,Delivery failed on-time-in-full requirement,Open
+EXC000433,2025-01-04,Delivery,OTIF Failure,Medium,DLV800000055,Delivery failed on-time-in-full requirement,Open
+EXC000434,2025-09-23,Delivery,OTIF Failure,Medium,DLV800000059,Delivery failed on-time-in-full requirement,Open
+EXC000435,2025-06-13,Delivery,OTIF Failure,Medium,DLV800000061,Delivery failed on-time-in-full requirement,Open
+EXC000436,2025-02-12,Delivery,OTIF Failure,Medium,DLV800000062,Delivery failed on-time-in-full requirement,Open
+EXC000437,2026-06-11,Delivery,OTIF Failure,Medium,DLV800000064,Delivery failed on-time-in-full requirement,Open
+EXC000438,2026-04-11,Delivery,OTIF Failure,Medium,DLV800000067,Delivery failed on-time-in-full requirement,Open
+EXC000439,2025-11-28,Delivery,OTIF Failure,Medium,DLV800000068,Delivery failed on-time-in-full requirement,Open
+EXC000440,2025-10-30,Delivery,OTIF Failure,Medium,DLV800000074,Delivery failed on-time-in-full requirement,Open
+EXC000441,2025-09-19,Delivery,OTIF Failure,Medium,DLV800000077,Delivery failed on-time-in-full requirement,Open
+EXC000442,2026-05-04,Delivery,OTIF Failure,Medium,DLV800000079,Delivery failed on-time-in-full requirement,Open
+EXC000443,2025-06-20,Delivery,OTIF Failure,Medium,DLV800000081,Delivery failed on-time-in-full requirement,Open
+EXC000444,2025-03-17,Delivery,OTIF Failure,Medium,DLV800000088,Delivery failed on-time-in-full requirement,Open
+EXC000445,2025-10-13,Delivery,OTIF Failure,Medium,DLV800000092,Delivery failed on-time-in-full requirement,Open
+EXC000446,2025-02-21,Delivery,OTIF Failure,Medium,DLV800000093,Delivery failed on-time-in-full requirement,Open
+EXC000447,2025-06-26,Delivery,OTIF Failure,Medium,DLV800000096,Delivery failed on-time-in-full requirement,Open
+EXC000448,2025-07-19,Delivery,OTIF Failure,Medium,DLV800000101,Delivery failed on-time-in-full requirement,Open
+EXC000449,2026-03-17,Delivery,OTIF Failure,High,DLV800000102,Delivery failed on-time-in-full requirement,Open
+EXC000450,2025-01-25,Delivery,OTIF Failure,Medium,DLV800000103,Delivery failed on-time-in-full requirement,Open
+EXC000451,2025-06-19,Delivery,OTIF Failure,High,DLV800000105,Delivery failed on-time-in-full requirement,Open
+EXC000452,2025-09-17,Delivery,OTIF Failure,High,DLV800000108,Delivery failed on-time-in-full requirement,Open
+EXC000453,2026-06-05,Delivery,OTIF Failure,Medium,DLV800000109,Delivery failed on-time-in-full requirement,Open
+EXC000454,2026-05-21,Delivery,OTIF Failure,Medium,DLV800000111,Delivery failed on-time-in-full requirement,Open
+EXC000455,2025-10-03,Delivery,OTIF Failure,Medium,DLV800000114,Delivery failed on-time-in-full requirement,Open
+EXC000456,2025-06-29,Delivery,OTIF Failure,High,DLV800000117,Delivery failed on-time-in-full requirement,Open
+EXC000457,2026-02-06,Delivery,OTIF Failure,Medium,DLV800000118,Delivery failed on-time-in-full requirement,Open
+EXC000458,2025-07-29,Delivery,OTIF Failure,High,DLV800000120,Delivery failed on-time-in-full requirement,Open
+EXC000459,2025-04-11,Delivery,OTIF Failure,Medium,DLV800000122,Delivery failed on-time-in-full requirement,Open
+EXC000460,2026-06-04,Delivery,OTIF Failure,Medium,DLV800000125,Delivery failed on-time-in-full requirement,Open
+EXC000461,2026-03-15,Delivery,OTIF Failure,Medium,DLV800000127,Delivery failed on-time-in-full requirement,Open
+EXC000462,2025-04-29,Delivery,OTIF Failure,Medium,DLV800000128,Delivery failed on-time-in-full requirement,Open
+EXC000463,2025-10-19,Delivery,OTIF Failure,Medium,DLV800000129,Delivery failed on-time-in-full requirement,Open
+EXC000464,2026-01-08,Delivery,OTIF Failure,Medium,DLV800000134,Delivery failed on-time-in-full requirement,Open
+EXC000465,2025-11-13,Delivery,OTIF Failure,Medium,DLV800000138,Delivery failed on-time-in-full requirement,Open
+EXC000466,2025-09-18,Delivery,OTIF Failure,Medium,DLV800000139,Delivery failed on-time-in-full requirement,Open
+EXC000467,2025-11-08,Delivery,OTIF Failure,Medium,DLV800000144,Delivery failed on-time-in-full requirement,Open
+EXC000468,2025-07-22,Delivery,OTIF Failure,Medium,DLV800000146,Delivery failed on-time-in-full requirement,Open
+EXC000469,2025-04-03,Delivery,OTIF Failure,Medium,DLV800000148,Delivery failed on-time-in-full requirement,Open
+EXC000470,2025-05-03,Delivery,OTIF Failure,Medium,DLV800000153,Delivery failed on-time-in-full requirement,Open
+EXC000471,2025-06-10,Delivery,OTIF Failure,Medium,DLV800000154,Delivery failed on-time-in-full requirement,Open
+EXC000472,2026-04-08,Delivery,OTIF Failure,Medium,DLV800000157,Delivery failed on-time-in-full requirement,Open
+EXC000473,2025-07-22,Delivery,OTIF Failure,Medium,DLV800000162,Delivery failed on-time-in-full requirement,Open
+EXC000474,2026-02-10,Delivery,OTIF Failure,Medium,DLV800000168,Delivery failed on-time-in-full requirement,Open
+EXC000475,2025-10-28,Delivery,OTIF Failure,Medium,DLV800000169,Delivery failed on-time-in-full requirement,Open
+EXC000476,2025-04-26,Delivery,OTIF Failure,Medium,DLV800000173,Delivery failed on-time-in-full requirement,Open
+EXC000477,2025-02-21,Delivery,OTIF Failure,High,DLV800000180,Delivery failed on-time-in-full requirement,Open
+EXC000478,2026-02-10,Delivery,OTIF Failure,Medium,DLV800000183,Delivery failed on-time-in-full requirement,Open
+EXC000479,2025-09-27,Delivery,OTIF Failure,Medium,DLV800000186,Delivery failed on-time-in-full requirement,Open
+EXC000480,2026-04-29,Delivery,OTIF Failure,Medium,DLV800000187,Delivery failed on-time-in-full requirement,Open
+EXC000481,2026-05-06,Delivery,OTIF Failure,Medium,DLV800000191,Delivery failed on-time-in-full requirement,Open
+EXC000482,2025-11-05,Delivery,OTIF Failure,Medium,DLV800000193,Delivery failed on-time-in-full requirement,Open
+EXC000483,2026-02-26,Delivery,OTIF Failure,Medium,DLV800000194,Delivery failed on-time-in-full requirement,Open
+EXC000484,2025-05-19,Delivery,OTIF Failure,Medium,DLV800000198,Delivery failed on-time-in-full requirement,Open
+EXC000485,2026-06-15,Delivery,OTIF Failure,Medium,DLV800000199,Delivery failed on-time-in-full requirement,Open
+EXC000486,2025-06-18,Delivery,OTIF Failure,Medium,DLV800000201,Delivery failed on-time-in-full requirement,Open
+EXC000487,2025-09-17,Delivery,OTIF Failure,Medium,DLV800000203,Delivery failed on-time-in-full requirement,Open
+EXC000488,2025-01-13,Delivery,OTIF Failure,Medium,DLV800000208,Delivery failed on-time-in-full requirement,Open
+EXC000489,2026-06-16,Delivery,OTIF Failure,High,DLV800000211,Delivery failed on-time-in-full requirement,Open
+EXC000490,2025-05-06,Delivery,OTIF Failure,High,DLV800000216,Delivery failed on-time-in-full requirement,Open
+EXC000491,2025-05-23,Delivery,OTIF Failure,Medium,DLV800000218,Delivery failed on-time-in-full requirement,Open
+EXC000492,2026-04-04,Delivery,OTIF Failure,Medium,DLV800000221,Delivery failed on-time-in-full requirement,Open
+EXC000493,2026-04-17,Delivery,OTIF Failure,Medium,DLV800000223,Delivery failed on-time-in-full requirement,Open
+EXC000494,2025-03-17,Delivery,OTIF Failure,Medium,DLV800000224,Delivery failed on-time-in-full requirement,Open
+EXC000495,2025-03-28,Delivery,OTIF Failure,High,DLV800000226,Delivery failed on-time-in-full requirement,Open
+EXC000496,2026-01-17,Delivery,OTIF Failure,Medium,DLV800000234,Delivery failed on-time-in-full requirement,Open
+EXC000497,2025-08-21,Delivery,OTIF Failure,Medium,DLV800000235,Delivery failed on-time-in-full requirement,Open
+EXC000498,2025-06-06,Delivery,OTIF Failure,Medium,DLV800000240,Delivery failed on-time-in-full requirement,Open
+EXC000499,2025-04-21,Delivery,OTIF Failure,High,DLV800000244,Delivery failed on-time-in-full requirement,Open
+EXC000500,2025-10-25,Delivery,OTIF Failure,High,DLV800000248,Delivery failed on-time-in-full requirement,Open
+EXC000501,2026-01-10,Delivery,OTIF Failure,Medium,DLV800000249,Delivery failed on-time-in-full requirement,Open
+EXC000502,2025-04-13,Delivery,OTIF Failure,High,DLV800000251,Delivery failed on-time-in-full requirement,Open
+EXC000503,2025-03-03,Delivery,OTIF Failure,Medium,DLV800000253,Delivery failed on-time-in-full requirement,Open
+EXC000504,2025-02-03,Delivery,OTIF Failure,Medium,DLV800000257,Delivery failed on-time-in-full requirement,Open
+EXC000505,2025-06-06,Delivery,OTIF Failure,Medium,DLV800000258,Delivery failed on-time-in-full requirement,Open
+EXC000506,2026-04-14,Delivery,OTIF Failure,Medium,DLV800000259,Delivery failed on-time-in-full requirement,Open
+EXC000507,2025-02-21,Delivery,OTIF Failure,High,DLV800000260,Delivery failed on-time-in-full requirement,Open
+EXC000508,2026-06-19,Delivery,OTIF Failure,Medium,DLV800000261,Delivery failed on-time-in-full requirement,Open
+EXC000509,2025-05-09,Delivery,OTIF Failure,Medium,DLV800000263,Delivery failed on-time-in-full requirement,Open
+EXC000510,2025-06-16,Delivery,OTIF Failure,High,DLV800000266,Delivery failed on-time-in-full requirement,Open
+EXC000511,2026-01-04,Delivery,OTIF Failure,Medium,DLV800000269,Delivery failed on-time-in-full requirement,Open
+EXC000512,2025-02-13,Delivery,OTIF Failure,Medium,DLV800000271,Delivery failed on-time-in-full requirement,Open
+EXC000513,2025-01-16,Delivery,OTIF Failure,Medium,DLV800000275,Delivery failed on-time-in-full requirement,Open
+EXC000514,2026-02-09,Delivery,OTIF Failure,Medium,DLV800000276,Delivery failed on-time-in-full requirement,Open
+EXC000515,2026-03-23,Delivery,OTIF Failure,High,DLV800000277,Delivery failed on-time-in-full requirement,Open
+EXC000516,2025-07-21,Delivery,OTIF Failure,High,DLV800000278,Delivery failed on-time-in-full requirement,Open
+EXC000517,2025-05-27,Delivery,OTIF Failure,High,DLV800000279,Delivery failed on-time-in-full requirement,Open
+EXC000518,2025-04-14,Delivery,OTIF Failure,High,DLV800000280,Delivery failed on-time-in-full requirement,Open
+EXC000519,2025-10-02,Delivery,OTIF Failure,Medium,DLV800000283,Delivery failed on-time-in-full requirement,Open
+EXC000520,2025-05-11,Delivery,OTIF Failure,High,DLV800000290,Delivery failed on-time-in-full requirement,Open
+EXC000521,2026-04-02,Delivery,OTIF Failure,Medium,DLV800000293,Delivery failed on-time-in-full requirement,Open
+EXC000522,2025-02-18,Delivery,OTIF Failure,Medium,DLV800000294,Delivery failed on-time-in-full requirement,Open
+EXC000523,2025-02-21,Delivery,OTIF Failure,Medium,DLV800000300,Delivery failed on-time-in-full requirement,Open
+EXC000524,2025-07-15,Delivery,OTIF Failure,High,DLV800000302,Delivery failed on-time-in-full requirement,Open
+EXC000525,2025-11-02,Delivery,OTIF Failure,High,DLV800000304,Delivery failed on-time-in-full requirement,Open
+EXC000526,2025-09-10,Delivery,OTIF Failure,Medium,DLV800000306,Delivery failed on-time-in-full requirement,Open
+EXC000527,2025-11-09,Delivery,OTIF Failure,Medium,DLV800000307,Delivery failed on-time-in-full requirement,Open
+EXC000528,2025-08-24,Delivery,OTIF Failure,Medium,DLV800000308,Delivery failed on-time-in-full requirement,Open
+EXC000529,2025-06-29,Delivery,OTIF Failure,Medium,DLV800000309,Delivery failed on-time-in-full requirement,Open
+EXC000530,2026-01-26,Delivery,OTIF Failure,High,DLV800000310,Delivery failed on-time-in-full requirement,Open
+EXC000531,2025-06-13,Delivery,OTIF Failure,Medium,DLV800000311,Delivery failed on-time-in-full requirement,Open
+EXC000532,2026-03-18,Delivery,OTIF Failure,Medium,DLV800000312,Delivery failed on-time-in-full requirement,Open
+EXC000533,2025-07-10,Delivery,OTIF Failure,Medium,DLV800000313,Delivery failed on-time-in-full requirement,Open
+EXC000534,2025-08-06,Delivery,OTIF Failure,High,DLV800000314,Delivery failed on-time-in-full requirement,Open
+EXC000535,2025-05-08,Delivery,OTIF Failure,Medium,DLV800000315,Delivery failed on-time-in-full requirement,Open
+EXC000536,2026-05-29,Delivery,OTIF Failure,Medium,DLV800000324,Delivery failed on-time-in-full requirement,Open
+EXC000537,2025-04-25,Delivery,OTIF Failure,High,DLV800000325,Delivery failed on-time-in-full requirement,Open
+EXC000538,2026-02-27,Delivery,OTIF Failure,Medium,DLV800000326,Delivery failed on-time-in-full requirement,Open
+EXC000539,2026-01-01,Delivery,OTIF Failure,Medium,DLV800000328,Delivery failed on-time-in-full requirement,Open
+EXC000540,2026-04-16,Delivery,OTIF Failure,Medium,DLV800000339,Delivery failed on-time-in-full requirement,Open
+EXC000541,2026-03-01,Delivery,OTIF Failure,Medium,DLV800000340,Delivery failed on-time-in-full requirement,Open
+EXC000542,2026-05-14,Delivery,OTIF Failure,Medium,DLV800000343,Delivery failed on-time-in-full requirement,Open
+EXC000543,2025-02-13,Delivery,OTIF Failure,Medium,DLV800000344,Delivery failed on-time-in-full requirement,Open
+EXC000544,2025-11-23,Delivery,OTIF Failure,Medium,DLV800000353,Delivery failed on-time-in-full requirement,Open
+EXC000545,2025-11-01,Delivery,OTIF Failure,Medium,DLV800000354,Delivery failed on-time-in-full requirement,Open
+EXC000546,2025-06-08,Delivery,OTIF Failure,High,DLV800000356,Delivery failed on-time-in-full requirement,Open
+EXC000547,2026-03-05,Delivery,OTIF Failure,Medium,DLV800000357,Delivery failed on-time-in-full requirement,Open
+EXC000548,2026-05-13,Delivery,OTIF Failure,High,DLV800000359,Delivery failed on-time-in-full requirement,Open
+EXC000549,2025-07-05,Delivery,OTIF Failure,Medium,DLV800000360,Delivery failed on-time-in-full requirement,Open
+EXC000550,2026-04-04,Delivery,OTIF Failure,Medium,DLV800000362,Delivery failed on-time-in-full requirement,Open
+EXC000551,2025-01-22,Delivery,OTIF Failure,Medium,DLV800000363,Delivery failed on-time-in-full requirement,Open
+EXC000552,2026-04-11,Delivery,OTIF Failure,Medium,DLV800000368,Delivery failed on-time-in-full requirement,Open
+EXC000553,2025-08-18,Delivery,OTIF Failure,Medium,DLV800000374,Delivery failed on-time-in-full requirement,Open
+EXC000554,2026-05-03,Delivery,OTIF Failure,Medium,DLV800000375,Delivery failed on-time-in-full requirement,Open
+EXC000555,2026-04-15,Delivery,OTIF Failure,Medium,DLV800000376,Delivery failed on-time-in-full requirement,Open
+EXC000556,2026-06-02,Delivery,OTIF Failure,Medium,DLV800000377,Delivery failed on-time-in-full requirement,Open
+EXC000557,2025-05-02,Delivery,OTIF Failure,Medium,DLV800000379,Delivery failed on-time-in-full requirement,Open
+EXC000558,2025-09-01,Delivery,OTIF Failure,Medium,DLV800000381,Delivery failed on-time-in-full requirement,Open
+EXC000559,2025-12-19,Delivery,OTIF Failure,Medium,DLV800000386,Delivery failed on-time-in-full requirement,Open
+EXC000560,2025-05-24,Delivery,OTIF Failure,High,DLV800000387,Delivery failed on-time-in-full requirement,Open
+EXC000561,2025-02-01,Delivery,OTIF Failure,Medium,DLV800000388,Delivery failed on-time-in-full requirement,Open
+EXC000562,2025-02-28,Delivery,OTIF Failure,Medium,DLV800000390,Delivery failed on-time-in-full requirement,Open
+EXC000563,2026-06-10,Delivery,OTIF Failure,Medium,DLV800000397,Delivery failed on-time-in-full requirement,Open
+EXC000564,2025-03-07,Delivery,OTIF Failure,Medium,DLV800000398,Delivery failed on-time-in-full requirement,Open
+EXC000565,2025-04-21,Delivery,OTIF Failure,Medium,DLV800000399,Delivery failed on-time-in-full requirement,Open
+EXC000566,2026-02-17,Delivery,OTIF Failure,High,DLV800000400,Delivery failed on-time-in-full requirement,Open
+EXC000567,2025-12-16,Delivery,OTIF Failure,Medium,DLV800000401,Delivery failed on-time-in-full requirement,Open
+EXC000568,2026-06-12,Delivery,OTIF Failure,Medium,DLV800000403,Delivery failed on-time-in-full requirement,Open
+EXC000569,2025-12-23,Delivery,OTIF Failure,Medium,DLV800000404,Delivery failed on-time-in-full requirement,Open
+EXC000570,2025-11-04,Delivery,OTIF Failure,Medium,DLV800000405,Delivery failed on-time-in-full requirement,Open
+EXC000571,2025-04-28,Delivery,OTIF Failure,Medium,DLV800000407,Delivery failed on-time-in-full requirement,Open
+EXC000572,2025-11-03,Delivery,OTIF Failure,Medium,DLV800000412,Delivery failed on-time-in-full requirement,Open
+EXC000573,2025-03-23,Delivery,OTIF Failure,Medium,DLV800000413,Delivery failed on-time-in-full requirement,Open
+EXC000574,2026-01-23,Delivery,OTIF Failure,Medium,DLV800000417,Delivery failed on-time-in-full requirement,Open
+EXC000575,2025-12-04,Delivery,OTIF Failure,Medium,DLV800000422,Delivery failed on-time-in-full requirement,Open
+EXC000576,2026-04-03,Delivery,OTIF Failure,High,DLV800000424,Delivery failed on-time-in-full requirement,Open
+EXC000577,2025-04-27,Delivery,OTIF Failure,Medium,DLV800000425,Delivery failed on-time-in-full requirement,Open
+EXC000578,2026-02-11,Delivery,OTIF Failure,High,DLV800000429,Delivery failed on-time-in-full requirement,Open
+EXC000579,2025-12-11,Delivery,OTIF Failure,Medium,DLV800000432,Delivery failed on-time-in-full requirement,Open
+EXC000580,2026-04-30,Delivery,OTIF Failure,Medium,DLV800000435,Delivery failed on-time-in-full requirement,Open
+EXC000581,2025-01-19,Delivery,OTIF Failure,Medium,DLV800000438,Delivery failed on-time-in-full requirement,Open
+EXC000582,2026-01-03,Delivery,OTIF Failure,Medium,DLV800000440,Delivery failed on-time-in-full requirement,Open
+EXC000583,2026-04-21,Delivery,OTIF Failure,Medium,DLV800000442,Delivery failed on-time-in-full requirement,Open
+EXC000584,2026-02-17,Delivery,OTIF Failure,Medium,DLV800000447,Delivery failed on-time-in-full requirement,Open
+EXC000585,2025-11-17,Delivery,OTIF Failure,High,DLV800000452,Delivery failed on-time-in-full requirement,Open
+EXC000586,2025-10-24,Delivery,OTIF Failure,Medium,DLV800000455,Delivery failed on-time-in-full requirement,Open
+EXC000587,2025-12-07,Delivery,OTIF Failure,Medium,DLV800000457,Delivery failed on-time-in-full requirement,Open
+EXC000588,2025-02-02,Delivery,OTIF Failure,Medium,DLV800000458,Delivery failed on-time-in-full requirement,Open
+EXC000589,2026-02-19,Delivery,OTIF Failure,High,DLV800000464,Delivery failed on-time-in-full requirement,Open
+EXC000590,2026-05-13,Delivery,OTIF Failure,High,DLV800000466,Delivery failed on-time-in-full requirement,Open
+EXC000591,2025-04-25,Delivery,OTIF Failure,Medium,DLV800000467,Delivery failed on-time-in-full requirement,Open
+EXC000592,2026-05-25,Delivery,OTIF Failure,Medium,DLV800000474,Delivery failed on-time-in-full requirement,Open
+EXC000593,2025-12-31,Delivery,OTIF Failure,Medium,DLV800000475,Delivery failed on-time-in-full requirement,Open
+EXC000594,2025-01-11,Delivery,OTIF Failure,Medium,DLV800000476,Delivery failed on-time-in-full requirement,Open
+EXC000595,2025-01-05,Delivery,OTIF Failure,Medium,DLV800000477,Delivery failed on-time-in-full requirement,Open
+EXC000596,2025-08-22,Delivery,OTIF Failure,Medium,DLV800000479,Delivery failed on-time-in-full requirement,Open
+EXC000597,2025-05-06,Delivery,OTIF Failure,Medium,DLV800000481,Delivery failed on-time-in-full requirement,Open
+EXC000598,2026-01-14,Delivery,OTIF Failure,High,DLV800000486,Delivery failed on-time-in-full requirement,Open
+EXC000599,2025-05-19,Delivery,OTIF Failure,Medium,DLV800000489,Delivery failed on-time-in-full requirement,Open
+EXC000600,2025-11-06,Delivery,OTIF Failure,Medium,DLV800000493,Delivery failed on-time-in-full requirement,Open
+EXC000601,2025-03-15,Delivery,OTIF Failure,High,DLV800000495,Delivery failed on-time-in-full requirement,Open
+EXC000602,2026-03-11,Delivery,OTIF Failure,High,DLV800000498,Delivery failed on-time-in-full requirement,Open
+EXC000603,2025-03-02,Delivery,OTIF Failure,Medium,DLV800000499,Delivery failed on-time-in-full requirement,Open
+EXC000604,2025-09-24,Delivery,OTIF Failure,Medium,DLV800000500,Delivery failed on-time-in-full requirement,Open
+EXC000605,2025-04-18,Delivery,OTIF Failure,Medium,DLV800000503,Delivery failed on-time-in-full requirement,Open
+EXC000606,2025-01-20,Delivery,OTIF Failure,High,DLV800000504,Delivery failed on-time-in-full requirement,Open
+EXC000607,2025-06-30,Delivery,OTIF Failure,High,DLV800000510,Delivery failed on-time-in-full requirement,Open
+EXC000608,2025-10-03,Delivery,OTIF Failure,Medium,DLV800000518,Delivery failed on-time-in-full requirement,Open
+EXC000609,2025-04-14,Delivery,OTIF Failure,Medium,DLV800000519,Delivery failed on-time-in-full requirement,Open
+EXC000610,2025-04-17,Delivery,OTIF Failure,Medium,DLV800000520,Delivery failed on-time-in-full requirement,Open
+EXC000611,2025-05-21,Delivery,OTIF Failure,Medium,DLV800000521,Delivery failed on-time-in-full requirement,Open
+EXC000612,2025-01-09,Delivery,OTIF Failure,Medium,DLV800000524,Delivery failed on-time-in-full requirement,Open
+EXC000613,2025-11-05,Delivery,OTIF Failure,Medium,DLV800000529,Delivery failed on-time-in-full requirement,Open
+EXC000614,2025-03-31,Delivery,OTIF Failure,Medium,DLV800000530,Delivery failed on-time-in-full requirement,Open
+EXC000615,2025-04-10,Delivery,OTIF Failure,High,DLV800000533,Delivery failed on-time-in-full requirement,Open
+EXC000616,2025-12-16,Delivery,OTIF Failure,Medium,DLV800000539,Delivery failed on-time-in-full requirement,Open
+EXC000617,2025-05-07,Delivery,OTIF Failure,High,DLV800000550,Delivery failed on-time-in-full requirement,Open
+EXC000618,2026-04-09,Delivery,OTIF Failure,Medium,DLV800000551,Delivery failed on-time-in-full requirement,Open
+EXC000619,2025-07-29,Delivery,OTIF Failure,Medium,DLV800000556,Delivery failed on-time-in-full requirement,Open
+EXC000620,2026-05-31,Delivery,OTIF Failure,Medium,DLV800000560,Delivery failed on-time-in-full requirement,Open
+EXC000621,2025-09-19,Delivery,OTIF Failure,High,DLV800000561,Delivery failed on-time-in-full requirement,Open
+EXC000622,2025-06-04,Delivery,OTIF Failure,Medium,DLV800000563,Delivery failed on-time-in-full requirement,Open
+EXC000623,2025-05-03,Delivery,OTIF Failure,High,DLV800000565,Delivery failed on-time-in-full requirement,Open
+EXC000624,2025-07-09,Delivery,OTIF Failure,Medium,DLV800000567,Delivery failed on-time-in-full requirement,Open
+EXC000625,2025-10-20,Delivery,OTIF Failure,High,DLV800000571,Delivery failed on-time-in-full requirement,Open
+EXC000626,2025-09-13,Delivery,OTIF Failure,Medium,DLV800000572,Delivery failed on-time-in-full requirement,Open
+EXC000627,2026-02-02,Delivery,OTIF Failure,Medium,DLV800000574,Delivery failed on-time-in-full requirement,Open
+EXC000628,2026-02-15,Delivery,OTIF Failure,Medium,DLV800000576,Delivery failed on-time-in-full requirement,Open
+EXC000629,2026-04-28,Delivery,OTIF Failure,Medium,DLV800000580,Delivery failed on-time-in-full requirement,Open
+EXC000630,2025-04-22,Delivery,OTIF Failure,High,DLV800000582,Delivery failed on-time-in-full requirement,Open
+EXC000631,2026-05-22,Delivery,OTIF Failure,Medium,DLV800000588,Delivery failed on-time-in-full requirement,Open
+EXC000632,2026-04-09,Delivery,OTIF Failure,Medium,DLV800000591,Delivery failed on-time-in-full requirement,Open
+EXC000633,2025-01-26,Delivery,OTIF Failure,Medium,DLV800000593,Delivery failed on-time-in-full requirement,Open
+EXC000634,2026-03-20,Delivery,OTIF Failure,Medium,DLV800000596,Delivery failed on-time-in-full requirement,Open
+EXC000635,2026-02-25,Delivery,OTIF Failure,High,DLV800000601,Delivery failed on-time-in-full requirement,Open
+EXC000636,2025-02-24,Delivery,OTIF Failure,Medium,DLV800000603,Delivery failed on-time-in-full requirement,Open
+EXC000637,2025-07-12,Delivery,OTIF Failure,Medium,DLV800000606,Delivery failed on-time-in-full requirement,Open
+EXC000638,2025-10-08,Delivery,OTIF Failure,Medium,DLV800000607,Delivery failed on-time-in-full requirement,Open
+EXC000639,2025-01-18,Delivery,OTIF Failure,Medium,DLV800000608,Delivery failed on-time-in-full requirement,Open
+EXC000640,2026-03-08,Delivery,OTIF Failure,Medium,DLV800000610,Delivery failed on-time-in-full requirement,Open
+EXC000641,2025-11-05,Delivery,OTIF Failure,Medium,DLV800000615,Delivery failed on-time-in-full requirement,Open
+EXC000642,2025-05-18,Delivery,OTIF Failure,Medium,DLV800000618,Delivery failed on-time-in-full requirement,Open
+EXC000643,2025-08-16,Delivery,OTIF Failure,Medium,DLV800000623,Delivery failed on-time-in-full requirement,Open
+EXC000644,2026-02-20,Delivery,OTIF Failure,Medium,DLV800000628,Delivery failed on-time-in-full requirement,Open
+EXC000645,2025-03-17,Delivery,OTIF Failure,Medium,DLV800000632,Delivery failed on-time-in-full requirement,Open
+EXC000646,2025-05-13,Delivery,OTIF Failure,Medium,DLV800000634,Delivery failed on-time-in-full requirement,Open
+EXC000647,2025-09-20,Delivery,OTIF Failure,Medium,DLV800000635,Delivery failed on-time-in-full requirement,Open
+EXC000648,2026-04-01,Delivery,OTIF Failure,Medium,DLV800000636,Delivery failed on-time-in-full requirement,Open
+EXC000649,2025-11-24,Delivery,OTIF Failure,Medium,DLV800000638,Delivery failed on-time-in-full requirement,Open
+EXC000650,2025-06-26,Delivery,OTIF Failure,Medium,DLV800000639,Delivery failed on-time-in-full requirement,Open
+EXC000651,2025-03-01,Delivery,OTIF Failure,Medium,DLV800000640,Delivery failed on-time-in-full requirement,Open
+EXC000652,2026-03-21,Delivery,OTIF Failure,Medium,DLV800000644,Delivery failed on-time-in-full requirement,Open
+EXC000653,2026-06-07,Delivery,OTIF Failure,Medium,DLV800000646,Delivery failed on-time-in-full requirement,Open
+EXC000654,2025-10-21,Delivery,OTIF Failure,High,DLV800000656,Delivery failed on-time-in-full requirement,Open
+EXC000655,2025-02-11,Delivery,OTIF Failure,Medium,DLV800000657,Delivery failed on-time-in-full requirement,Open
+EXC000656,2025-08-05,Delivery,OTIF Failure,Medium,DLV800000658,Delivery failed on-time-in-full requirement,Open
+EXC000657,2026-06-09,Delivery,OTIF Failure,Medium,DLV800000662,Delivery failed on-time-in-full requirement,Open
+EXC000658,2025-07-16,Delivery,OTIF Failure,Medium,DLV800000663,Delivery failed on-time-in-full requirement,Open
+EXC000659,2025-11-01,Delivery,OTIF Failure,High,DLV800000668,Delivery failed on-time-in-full requirement,Open
+EXC000660,2026-02-07,Delivery,OTIF Failure,High,DLV800000672,Delivery failed on-time-in-full requirement,Open
+EXC000661,2025-03-26,Delivery,OTIF Failure,Medium,DLV800000673,Delivery failed on-time-in-full requirement,Open
+EXC000662,2026-04-17,Delivery,OTIF Failure,Medium,DLV800000677,Delivery failed on-time-in-full requirement,Open
+EXC000663,2025-01-28,Delivery,OTIF Failure,Medium,DLV800000680,Delivery failed on-time-in-full requirement,Open
+EXC000664,2025-12-04,Delivery,OTIF Failure,High,DLV800000683,Delivery failed on-time-in-full requirement,Open
+EXC000665,2025-07-08,Delivery,OTIF Failure,High,DLV800000684,Delivery failed on-time-in-full requirement,Open
+EXC000666,2025-11-21,Delivery,OTIF Failure,Medium,DLV800000686,Delivery failed on-time-in-full requirement,Open
+EXC000667,2025-09-15,Delivery,OTIF Failure,Medium,DLV800000688,Delivery failed on-time-in-full requirement,Open
+EXC000668,2025-07-24,Delivery,OTIF Failure,Medium,DLV800000690,Delivery failed on-time-in-full requirement,Open
+EXC000669,2026-05-30,Delivery,OTIF Failure,Medium,DLV800000691,Delivery failed on-time-in-full requirement,Open
+EXC000670,2025-09-19,Delivery,OTIF Failure,Medium,DLV800000696,Delivery failed on-time-in-full requirement,Open
+EXC000671,2026-03-16,Delivery,OTIF Failure,Medium,DLV800000697,Delivery failed on-time-in-full requirement,Open
+EXC000672,2025-06-08,Delivery,OTIF Failure,Medium,DLV800000702,Delivery failed on-time-in-full requirement,Open
+EXC000673,2025-01-06,Delivery,OTIF Failure,Medium,DLV800000706,Delivery failed on-time-in-full requirement,Open
+EXC000674,2026-02-25,Delivery,OTIF Failure,Medium,DLV800000710,Delivery failed on-time-in-full requirement,Open
+EXC000675,2025-01-11,Delivery,OTIF Failure,Medium,DLV800000714,Delivery failed on-time-in-full requirement,Open
+EXC000676,2025-05-03,Delivery,OTIF Failure,Medium,DLV800000715,Delivery failed on-time-in-full requirement,Open
+EXC000677,2025-04-20,Delivery,OTIF Failure,High,DLV800000717,Delivery failed on-time-in-full requirement,Open
+EXC000678,2025-05-04,Delivery,OTIF Failure,Medium,DLV800000719,Delivery failed on-time-in-full requirement,Open
+EXC000679,2025-08-13,Delivery,OTIF Failure,Medium,DLV800000722,Delivery failed on-time-in-full requirement,Open
+EXC000680,2025-08-23,Delivery,OTIF Failure,High,DLV800000727,Delivery failed on-time-in-full requirement,Open
+EXC000681,2025-04-17,Delivery,OTIF Failure,Medium,DLV800000728,Delivery failed on-time-in-full requirement,Open
+EXC000682,2025-09-27,Delivery,OTIF Failure,Medium,DLV800000735,Delivery failed on-time-in-full requirement,Open
+EXC000683,2026-04-05,Delivery,OTIF Failure,High,DLV800000737,Delivery failed on-time-in-full requirement,Open
+EXC000684,2026-01-04,Delivery,OTIF Failure,Medium,DLV800000739,Delivery failed on-time-in-full requirement,Open
+EXC000685,2025-04-04,Delivery,OTIF Failure,Medium,DLV800000747,Delivery failed on-time-in-full requirement,Open
+EXC000686,2026-01-04,Delivery,OTIF Failure,Medium,DLV800000748,Delivery failed on-time-in-full requirement,Open
+EXC000687,2026-01-18,Delivery,OTIF Failure,High,DLV800000752,Delivery failed on-time-in-full requirement,Open
+EXC000688,2025-09-05,Delivery,OTIF Failure,High,DLV800000753,Delivery failed on-time-in-full requirement,Open
+EXC000689,2025-11-26,Delivery,OTIF Failure,Medium,DLV800000756,Delivery failed on-time-in-full requirement,Open
+EXC000690,2026-03-30,Delivery,OTIF Failure,Medium,DLV800000757,Delivery failed on-time-in-full requirement,Open
+EXC000691,2025-03-17,Delivery,OTIF Failure,Medium,DLV800000760,Delivery failed on-time-in-full requirement,Open
+EXC000692,2025-12-29,Delivery,OTIF Failure,Medium,DLV800000762,Delivery failed on-time-in-full requirement,Open
+EXC000693,2026-03-29,Delivery,OTIF Failure,Medium,DLV800000764,Delivery failed on-time-in-full requirement,Open
+EXC000694,2025-11-22,Delivery,OTIF Failure,High,DLV800000765,Delivery failed on-time-in-full requirement,Open
+EXC000695,2025-05-11,Delivery,OTIF Failure,Medium,DLV800000766,Delivery failed on-time-in-full requirement,Open
+EXC000696,2026-04-19,Delivery,OTIF Failure,Medium,DLV800000768,Delivery failed on-time-in-full requirement,Open
+EXC000697,2025-06-14,Delivery,OTIF Failure,High,DLV800000770,Delivery failed on-time-in-full requirement,Open
+EXC000698,2025-08-14,Delivery,OTIF Failure,Medium,DLV800000771,Delivery failed on-time-in-full requirement,Open
+EXC000699,2025-02-20,Delivery,OTIF Failure,Medium,DLV800000776,Delivery failed on-time-in-full requirement,Open
+EXC000700,2025-04-21,Delivery,OTIF Failure,Medium,DLV800000780,Delivery failed on-time-in-full requirement,Open
+EXC000701,2026-06-18,Delivery,OTIF Failure,Medium,DLV800000781,Delivery failed on-time-in-full requirement,Open
+EXC000702,2026-06-07,Delivery,OTIF Failure,Medium,DLV800000783,Delivery failed on-time-in-full requirement,Open
+EXC000703,2025-10-03,Delivery,OTIF Failure,Medium,DLV800000784,Delivery failed on-time-in-full requirement,Open
+EXC000704,2026-06-22,Delivery,OTIF Failure,High,DLV800000786,Delivery failed on-time-in-full requirement,Open
+EXC000705,2025-05-04,Delivery,OTIF Failure,High,DLV800000788,Delivery failed on-time-in-full requirement,Open
+EXC000706,2026-05-13,Delivery,OTIF Failure,Medium,DLV800000790,Delivery failed on-time-in-full requirement,Open
+EXC000707,2026-01-10,Delivery,OTIF Failure,Medium,DLV800000791,Delivery failed on-time-in-full requirement,Open
+EXC000708,2025-08-29,Delivery,OTIF Failure,Medium,DLV800000792,Delivery failed on-time-in-full requirement,Open
+EXC000709,2026-01-06,Delivery,OTIF Failure,Medium,DLV800000794,Delivery failed on-time-in-full requirement,Open
+EXC000710,2025-04-09,Delivery,OTIF Failure,Medium,DLV800000795,Delivery failed on-time-in-full requirement,Open
+EXC000711,2026-02-06,Delivery,OTIF Failure,Medium,DLV800000800,Delivery failed on-time-in-full requirement,Open
+EXC000712,2025-05-02,Delivery,OTIF Failure,High,DLV800000801,Delivery failed on-time-in-full requirement,Open
+EXC000713,2025-01-05,Delivery,OTIF Failure,Medium,DLV800000803,Delivery failed on-time-in-full requirement,Open
+EXC000714,2026-03-28,Delivery,OTIF Failure,High,DLV800000807,Delivery failed on-time-in-full requirement,Open
+EXC000715,2026-03-10,Delivery,OTIF Failure,Medium,DLV800000808,Delivery failed on-time-in-full requirement,Open
+EXC000716,2025-04-12,Delivery,OTIF Failure,Medium,DLV800000809,Delivery failed on-time-in-full requirement,Open
+EXC000717,2026-02-12,Delivery,OTIF Failure,Medium,DLV800000810,Delivery failed on-time-in-full requirement,Open
+EXC000718,2025-02-01,Delivery,OTIF Failure,High,DLV800000813,Delivery failed on-time-in-full requirement,Open
+EXC000719,2026-02-01,Delivery,OTIF Failure,Medium,DLV800000814,Delivery failed on-time-in-full requirement,Open
+EXC000720,2025-07-13,Delivery,OTIF Failure,High,DLV800000816,Delivery failed on-time-in-full requirement,Open
+EXC000721,2025-12-22,Delivery,OTIF Failure,High,DLV800000818,Delivery failed on-time-in-full requirement,Open
+EXC000722,2026-05-02,Delivery,OTIF Failure,High,DLV800000820,Delivery failed on-time-in-full requirement,Open
+EXC000723,2026-05-24,Delivery,OTIF Failure,Medium,DLV800000821,Delivery failed on-time-in-full requirement,Open
+EXC000724,2025-03-10,Delivery,OTIF Failure,Medium,DLV800000822,Delivery failed on-time-in-full requirement,Open
+EXC000725,2026-02-06,Delivery,OTIF Failure,Medium,DLV800000824,Delivery failed on-time-in-full requirement,Open
+EXC000726,2025-06-21,Delivery,OTIF Failure,Medium,DLV800000831,Delivery failed on-time-in-full requirement,Open
+EXC000727,2026-03-28,Delivery,OTIF Failure,High,DLV800000837,Delivery failed on-time-in-full requirement,Open
+EXC000728,2025-04-17,Delivery,OTIF Failure,High,DLV800000838,Delivery failed on-time-in-full requirement,Open
+EXC000729,2025-04-29,Delivery,OTIF Failure,Medium,DLV800000843,Delivery failed on-time-in-full requirement,Open
+EXC000730,2025-03-28,Delivery,OTIF Failure,Medium,DLV800000844,Delivery failed on-time-in-full requirement,Open
+EXC000731,2026-02-11,Delivery,OTIF Failure,Medium,DLV800000848,Delivery failed on-time-in-full requirement,Open
+EXC000732,2025-07-22,Delivery,OTIF Failure,Medium,DLV800000851,Delivery failed on-time-in-full requirement,Open
+EXC000733,2025-04-06,Delivery,OTIF Failure,High,DLV800000852,Delivery failed on-time-in-full requirement,Open
+EXC000734,2026-05-27,Delivery,OTIF Failure,Medium,DLV800000856,Delivery failed on-time-in-full requirement,Open
+EXC000735,2026-02-16,Delivery,OTIF Failure,Medium,DLV800000857,Delivery failed on-time-in-full requirement,Open
+EXC000736,2026-05-06,Delivery,OTIF Failure,Medium,DLV800000858,Delivery failed on-time-in-full requirement,Open
+EXC000737,2025-11-07,Delivery,OTIF Failure,Medium,DLV800000859,Delivery failed on-time-in-full requirement,Open
+EXC000738,2025-05-30,Delivery,OTIF Failure,Medium,DLV800000864,Delivery failed on-time-in-full requirement,Open
+EXC000739,2026-04-04,Delivery,OTIF Failure,Medium,DLV800000865,Delivery failed on-time-in-full requirement,Open
+EXC000740,2026-05-05,Delivery,OTIF Failure,Medium,DLV800000866,Delivery failed on-time-in-full requirement,Open
+EXC000741,2026-03-02,Delivery,OTIF Failure,High,DLV800000867,Delivery failed on-time-in-full requirement,Open
+EXC000742,2025-08-31,Delivery,OTIF Failure,Medium,DLV800000873,Delivery failed on-time-in-full requirement,Open
+EXC000743,2025-12-13,Delivery,OTIF Failure,Medium,DLV800000877,Delivery failed on-time-in-full requirement,Open
+EXC000744,2026-05-05,Delivery,OTIF Failure,High,DLV800000879,Delivery failed on-time-in-full requirement,Open
+EXC000745,2025-06-29,Delivery,OTIF Failure,Medium,DLV800000886,Delivery failed on-time-in-full requirement,Open
+EXC000746,2025-11-09,Delivery,OTIF Failure,Medium,DLV800000888,Delivery failed on-time-in-full requirement,Open
+EXC000747,2025-08-25,Delivery,OTIF Failure,Medium,DLV800000889,Delivery failed on-time-in-full requirement,Open
+EXC000748,2026-03-15,Delivery,OTIF Failure,Medium,DLV800000892,Delivery failed on-time-in-full requirement,Open
+EXC000749,2026-04-14,Delivery,OTIF Failure,Medium,DLV800000893,Delivery failed on-time-in-full requirement,Open
+EXC000750,2026-02-17,Delivery,OTIF Failure,Medium,DLV800000894,Delivery failed on-time-in-full requirement,Open
+EXC000751,2026-04-05,Delivery,OTIF Failure,Medium,DLV800000896,Delivery failed on-time-in-full requirement,Open
+EXC000752,2025-12-07,Delivery,OTIF Failure,High,DLV800000898,Delivery failed on-time-in-full requirement,Open
+EXC000753,2025-09-23,Delivery,OTIF Failure,Medium,DLV800000905,Delivery failed on-time-in-full requirement,Open
+EXC000754,2025-02-20,Delivery,OTIF Failure,Medium,DLV800000906,Delivery failed on-time-in-full requirement,Open
+EXC000755,2026-02-10,Delivery,OTIF Failure,High,DLV800000907,Delivery failed on-time-in-full requirement,Open
+EXC000756,2025-10-05,Delivery,OTIF Failure,High,DLV800000908,Delivery failed on-time-in-full requirement,Open
+EXC000757,2025-06-11,Delivery,OTIF Failure,High,DLV800000910,Delivery failed on-time-in-full requirement,Open
+EXC000758,2025-04-07,Delivery,OTIF Failure,Medium,DLV800000916,Delivery failed on-time-in-full requirement,Open
+EXC000759,2026-03-11,Delivery,OTIF Failure,Medium,DLV800000919,Delivery failed on-time-in-full requirement,Open
+EXC000760,2026-01-02,Delivery,OTIF Failure,Medium,DLV800000922,Delivery failed on-time-in-full requirement,Open
+EXC000761,2025-04-08,Delivery,OTIF Failure,High,DLV800000930,Delivery failed on-time-in-full requirement,Open
+EXC000762,2025-11-14,Delivery,OTIF Failure,High,DLV800000931,Delivery failed on-time-in-full requirement,Open
+EXC000763,2026-03-07,Delivery,OTIF Failure,High,DLV800000934,Delivery failed on-time-in-full requirement,Open
+EXC000764,2025-10-02,Delivery,OTIF Failure,Medium,DLV800000937,Delivery failed on-time-in-full requirement,Open
+EXC000765,2025-02-19,Delivery,OTIF Failure,Medium,DLV800000945,Delivery failed on-time-in-full requirement,Open
+EXC000766,2025-12-07,Delivery,OTIF Failure,Medium,DLV800000946,Delivery failed on-time-in-full requirement,Open
+EXC000767,2026-03-10,Delivery,OTIF Failure,Medium,DLV800000949,Delivery failed on-time-in-full requirement,Open
+EXC000768,2026-05-17,Delivery,OTIF Failure,Medium,DLV800000951,Delivery failed on-time-in-full requirement,Open
+EXC000769,2026-03-24,Delivery,OTIF Failure,Medium,DLV800000953,Delivery failed on-time-in-full requirement,Open
+EXC000770,2025-03-16,Delivery,OTIF Failure,Medium,DLV800000957,Delivery failed on-time-in-full requirement,Open
+EXC000771,2026-03-03,Delivery,OTIF Failure,Medium,DLV800000958,Delivery failed on-time-in-full requirement,Open
+EXC000772,2025-02-20,Delivery,OTIF Failure,Medium,DLV800000959,Delivery failed on-time-in-full requirement,Open
+EXC000773,2026-06-10,Delivery,OTIF Failure,Medium,DLV800000962,Delivery failed on-time-in-full requirement,Open
+EXC000774,2025-11-17,Delivery,OTIF Failure,High,DLV800000966,Delivery failed on-time-in-full requirement,Open
+EXC000775,2026-04-02,Delivery,OTIF Failure,Medium,DLV800000973,Delivery failed on-time-in-full requirement,Open
+EXC000776,2025-10-05,Delivery,OTIF Failure,Medium,DLV800000976,Delivery failed on-time-in-full requirement,Open
+EXC000777,2025-09-09,Delivery,OTIF Failure,High,DLV800000978,Delivery failed on-time-in-full requirement,Open
+EXC000778,2025-11-15,Delivery,OTIF Failure,Medium,DLV800000980,Delivery failed on-time-in-full requirement,Open
+EXC000779,2025-01-23,Delivery,OTIF Failure,Medium,DLV800000981,Delivery failed on-time-in-full requirement,Open
+EXC000780,2025-06-21,Delivery,OTIF Failure,Medium,DLV800000984,Delivery failed on-time-in-full requirement,Open
+EXC000781,2025-11-16,Delivery,OTIF Failure,High,DLV800000985,Delivery failed on-time-in-full requirement,Open
+EXC000782,2025-08-11,Delivery,OTIF Failure,Medium,DLV800000988,Delivery failed on-time-in-full requirement,Open
+EXC000783,2026-03-31,Delivery,OTIF Failure,Medium,DLV800000990,Delivery failed on-time-in-full requirement,Open
+EXC000784,2025-02-18,Delivery,OTIF Failure,Medium,DLV800000991,Delivery failed on-time-in-full requirement,Open
+EXC000785,2026-04-24,Delivery,OTIF Failure,Medium,DLV800000994,Delivery failed on-time-in-full requirement,Open
+EXC000786,2025-09-11,Delivery,OTIF Failure,Medium,DLV800000997,Delivery failed on-time-in-full requirement,Open
+EXC000787,2026-06-07,Delivery,OTIF Failure,Medium,DLV800000998,Delivery failed on-time-in-full requirement,Open
+EXC000788,2025-03-27,Delivery,OTIF Failure,Medium,DLV800000999,Delivery failed on-time-in-full requirement,Open
+EXC000789,2026-04-11,Delivery,OTIF Failure,Medium,DLV800001004,Delivery failed on-time-in-full requirement,Open
+EXC000790,2025-08-28,Delivery,OTIF Failure,Medium,DLV800001005,Delivery failed on-time-in-full requirement,Open
+EXC000791,2026-06-02,Delivery,OTIF Failure,High,DLV800001006,Delivery failed on-time-in-full requirement,Open
+EXC000792,2025-08-11,Delivery,OTIF Failure,Medium,DLV800001007,Delivery failed on-time-in-full requirement,Open
+EXC000793,2026-04-19,Delivery,OTIF Failure,Medium,DLV800001009,Delivery failed on-time-in-full requirement,Open
+EXC000794,2025-01-12,Delivery,OTIF Failure,Medium,DLV800001010,Delivery failed on-time-in-full requirement,Open
+EXC000795,2025-04-02,Delivery,OTIF Failure,High,DLV800001013,Delivery failed on-time-in-full requirement,Open
+EXC000796,2025-07-16,Delivery,OTIF Failure,Medium,DLV800001016,Delivery failed on-time-in-full requirement,Open
+EXC000797,2026-01-09,Delivery,OTIF Failure,High,DLV800001018,Delivery failed on-time-in-full requirement,Open
+EXC000798,2025-02-01,Delivery,OTIF Failure,Medium,DLV800001019,Delivery failed on-time-in-full requirement,Open
+EXC000799,2025-05-14,Delivery,OTIF Failure,Medium,DLV800001020,Delivery failed on-time-in-full requirement,Open
+EXC000800,2026-04-30,Delivery,OTIF Failure,Medium,DLV800001021,Delivery failed on-time-in-full requirement,Open
+EXC000801,2025-06-14,Delivery,OTIF Failure,Medium,DLV800001024,Delivery failed on-time-in-full requirement,Open
+EXC000802,2026-01-20,Delivery,OTIF Failure,High,DLV800001027,Delivery failed on-time-in-full requirement,Open
+EXC000803,2025-06-08,Delivery,OTIF Failure,Medium,DLV800001028,Delivery failed on-time-in-full requirement,Open
+EXC000804,2026-01-10,Delivery,OTIF Failure,Medium,DLV800001029,Delivery failed on-time-in-full requirement,Open
+EXC000805,2025-03-27,Delivery,OTIF Failure,High,DLV800001034,Delivery failed on-time-in-full requirement,Open
+EXC000806,2025-06-25,Delivery,OTIF Failure,High,DLV800001036,Delivery failed on-time-in-full requirement,Open
+EXC000807,2025-07-27,Delivery,OTIF Failure,Medium,DLV800001044,Delivery failed on-time-in-full requirement,Open
+EXC000808,2026-04-15,Delivery,OTIF Failure,Medium,DLV800001050,Delivery failed on-time-in-full requirement,Open
+EXC000809,2026-01-11,Delivery,OTIF Failure,Medium,DLV800001051,Delivery failed on-time-in-full requirement,Open
+EXC000810,2026-04-28,Delivery,OTIF Failure,Medium,DLV800001054,Delivery failed on-time-in-full requirement,Open
+EXC000811,2026-02-25,Delivery,OTIF Failure,Medium,DLV800001055,Delivery failed on-time-in-full requirement,Open
+EXC000812,2025-05-16,Delivery,OTIF Failure,Medium,DLV800001056,Delivery failed on-time-in-full requirement,Open
+EXC000813,2026-01-04,Delivery,OTIF Failure,Medium,DLV800001057,Delivery failed on-time-in-full requirement,Open
+EXC000814,2025-08-02,Delivery,OTIF Failure,Medium,DLV800001059,Delivery failed on-time-in-full requirement,Open
+EXC000815,2025-12-29,Delivery,OTIF Failure,Medium,DLV800001060,Delivery failed on-time-in-full requirement,Open
+EXC000816,2025-07-01,Delivery,OTIF Failure,Medium,DLV800001061,Delivery failed on-time-in-full requirement,Open
+EXC000817,2025-07-18,Delivery,OTIF Failure,Medium,DLV800001062,Delivery failed on-time-in-full requirement,Open
+EXC000818,2025-09-28,Delivery,OTIF Failure,Medium,DLV800001064,Delivery failed on-time-in-full requirement,Open
+EXC000819,2025-04-14,Delivery,OTIF Failure,Medium,DLV800001065,Delivery failed on-time-in-full requirement,Open
+EXC000820,2025-01-30,Delivery,OTIF Failure,High,DLV800001069,Delivery failed on-time-in-full requirement,Open
+EXC000821,2026-03-06,Delivery,OTIF Failure,High,DLV800001072,Delivery failed on-time-in-full requirement,Open
+EXC000822,2025-06-19,Delivery,OTIF Failure,Medium,DLV800001075,Delivery failed on-time-in-full requirement,Open
+EXC000823,2026-05-13,Delivery,OTIF Failure,Medium,DLV800001081,Delivery failed on-time-in-full requirement,Open
+EXC000824,2026-04-08,Delivery,OTIF Failure,Medium,DLV800001083,Delivery failed on-time-in-full requirement,Open
+EXC000825,2026-01-31,Delivery,OTIF Failure,Medium,DLV800001087,Delivery failed on-time-in-full requirement,Open
+EXC000826,2025-02-08,Delivery,OTIF Failure,Medium,DLV800001088,Delivery failed on-time-in-full requirement,Open
+EXC000827,2026-03-15,Delivery,OTIF Failure,High,DLV800001092,Delivery failed on-time-in-full requirement,Open
+EXC000828,2025-08-31,Delivery,OTIF Failure,High,DLV800001094,Delivery failed on-time-in-full requirement,Open
+EXC000829,2026-04-16,Delivery,OTIF Failure,High,DLV800001096,Delivery failed on-time-in-full requirement,Open
+EXC000830,2026-01-16,Delivery,OTIF Failure,Medium,DLV800001100,Delivery failed on-time-in-full requirement,Open
+EXC000831,2025-06-04,Delivery,OTIF Failure,Medium,DLV800001102,Delivery failed on-time-in-full requirement,Open
+EXC000832,2026-02-19,Delivery,OTIF Failure,Medium,DLV800001105,Delivery failed on-time-in-full requirement,Open
+EXC000833,2026-03-06,Delivery,OTIF Failure,High,DLV800001106,Delivery failed on-time-in-full requirement,Open
+EXC000834,2025-03-26,Delivery,OTIF Failure,Medium,DLV800001107,Delivery failed on-time-in-full requirement,Open
+EXC000835,2025-06-20,Delivery,OTIF Failure,Medium,DLV800001111,Delivery failed on-time-in-full requirement,Open
+EXC000836,2026-03-06,Delivery,OTIF Failure,High,DLV800001115,Delivery failed on-time-in-full requirement,Open
+EXC000837,2025-11-25,Delivery,OTIF Failure,Medium,DLV800001116,Delivery failed on-time-in-full requirement,Open
+EXC000838,2026-03-19,Delivery,OTIF Failure,High,DLV800001118,Delivery failed on-time-in-full requirement,Open
+EXC000839,2025-06-14,Delivery,OTIF Failure,Medium,DLV800001119,Delivery failed on-time-in-full requirement,Open
+EXC000840,2025-05-23,Delivery,OTIF Failure,Medium,DLV800001120,Delivery failed on-time-in-full requirement,Open
+EXC000841,2025-12-28,Delivery,OTIF Failure,Medium,DLV800001121,Delivery failed on-time-in-full requirement,Open
+EXC000842,2025-04-04,Delivery,OTIF Failure,Medium,DLV800001123,Delivery failed on-time-in-full requirement,Open
+EXC000843,2025-02-01,Delivery,OTIF Failure,Medium,DLV800001126,Delivery failed on-time-in-full requirement,Open
+EXC000844,2025-07-31,Delivery,OTIF Failure,Medium,DLV800001127,Delivery failed on-time-in-full requirement,Open
+EXC000845,2025-10-22,Delivery,OTIF Failure,Medium,DLV800001128,Delivery failed on-time-in-full requirement,Open
+EXC000846,2026-04-20,Delivery,OTIF Failure,Medium,DLV800001133,Delivery failed on-time-in-full requirement,Open
+EXC000847,2026-06-05,Delivery,OTIF Failure,Medium,DLV800001134,Delivery failed on-time-in-full requirement,Open
+EXC000848,2025-08-20,Delivery,OTIF Failure,High,DLV800001135,Delivery failed on-time-in-full requirement,Open
+EXC000849,2026-05-02,Delivery,OTIF Failure,High,DLV800001137,Delivery failed on-time-in-full requirement,Open
+EXC000850,2026-06-12,Delivery,OTIF Failure,Medium,DLV800001139,Delivery failed on-time-in-full requirement,Open
+EXC000851,2025-12-07,Delivery,OTIF Failure,High,DLV800001141,Delivery failed on-time-in-full requirement,Open
+EXC000852,2026-06-14,Delivery,OTIF Failure,Medium,DLV800001146,Delivery failed on-time-in-full requirement,Open
+EXC000853,2026-03-31,Delivery,OTIF Failure,Medium,DLV800001148,Delivery failed on-time-in-full requirement,Open
+EXC000854,2026-04-08,Delivery,OTIF Failure,Medium,DLV800001153,Delivery failed on-time-in-full requirement,Open
+EXC000855,2025-11-30,Delivery,OTIF Failure,Medium,DLV800001155,Delivery failed on-time-in-full requirement,Open
+EXC000856,2026-02-23,Delivery,OTIF Failure,Medium,DLV800001157,Delivery failed on-time-in-full requirement,Open
+EXC000857,2026-01-29,Delivery,OTIF Failure,High,DLV800001159,Delivery failed on-time-in-full requirement,Open
+EXC000858,2026-04-15,Delivery,OTIF Failure,Medium,DLV800001160,Delivery failed on-time-in-full requirement,Open
+EXC000859,2025-02-04,Delivery,OTIF Failure,Medium,DLV800001161,Delivery failed on-time-in-full requirement,Open
+EXC000860,2025-03-17,Delivery,OTIF Failure,Medium,DLV800001162,Delivery failed on-time-in-full requirement,Open
+EXC000861,2025-11-29,Delivery,OTIF Failure,Medium,DLV800001164,Delivery failed on-time-in-full requirement,Open
+EXC000862,2025-06-22,Delivery,OTIF Failure,Medium,DLV800001165,Delivery failed on-time-in-full requirement,Open
+EXC000863,2025-02-25,Delivery,OTIF Failure,Medium,DLV800001168,Delivery failed on-time-in-full requirement,Open
+EXC000864,2025-03-15,Delivery,OTIF Failure,Medium,DLV800001169,Delivery failed on-time-in-full requirement,Open
+EXC000865,2025-08-25,Delivery,OTIF Failure,High,DLV800001174,Delivery failed on-time-in-full requirement,Open
+EXC000866,2025-06-03,Delivery,OTIF Failure,Medium,DLV800001176,Delivery failed on-time-in-full requirement,Open
+EXC000867,2025-06-27,Delivery,OTIF Failure,Medium,DLV800001177,Delivery failed on-time-in-full requirement,Open
+EXC000868,2026-03-10,Delivery,OTIF Failure,Medium,DLV800001178,Delivery failed on-time-in-full requirement,Open
+EXC000869,2025-06-20,Delivery,OTIF Failure,Medium,DLV800001179,Delivery failed on-time-in-full requirement,Open
+EXC000870,2025-02-16,Delivery,OTIF Failure,Medium,DLV800001183,Delivery failed on-time-in-full requirement,Open
+EXC000871,2025-09-19,Delivery,OTIF Failure,High,DLV800001189,Delivery failed on-time-in-full requirement,Open
+EXC000872,2026-06-01,Delivery,OTIF Failure,Medium,DLV800001191,Delivery failed on-time-in-full requirement,Open
+EXC000873,2025-01-11,Delivery,OTIF Failure,High,DLV800001193,Delivery failed on-time-in-full requirement,Open
+EXC000874,2025-03-14,Delivery,OTIF Failure,Medium,DLV800001195,Delivery failed on-time-in-full requirement,Open
+EXC000875,2025-08-10,Delivery,OTIF Failure,High,DLV800001197,Delivery failed on-time-in-full requirement,Open
+EXC000876,2025-06-18,Delivery,OTIF Failure,High,DLV800001202,Delivery failed on-time-in-full requirement,Open
+EXC000877,2025-05-26,Delivery,OTIF Failure,High,DLV800001204,Delivery failed on-time-in-full requirement,Open
+EXC000878,2026-03-09,Delivery,OTIF Failure,Medium,DLV800001210,Delivery failed on-time-in-full requirement,Open
+EXC000879,2026-03-26,Delivery,OTIF Failure,Medium,DLV800001212,Delivery failed on-time-in-full requirement,Open
+EXC000880,2025-02-02,Delivery,OTIF Failure,Medium,DLV800001213,Delivery failed on-time-in-full requirement,Open
+EXC000881,2026-06-02,Delivery,OTIF Failure,Medium,DLV800001214,Delivery failed on-time-in-full requirement,Open
+EXC000882,2026-05-22,Delivery,OTIF Failure,Medium,DLV800001217,Delivery failed on-time-in-full requirement,Open
+EXC000883,2025-03-14,Delivery,OTIF Failure,Medium,DLV800001228,Delivery failed on-time-in-full requirement,Open
+EXC000884,2025-03-14,Delivery,OTIF Failure,Medium,DLV800001229,Delivery failed on-time-in-full requirement,Open
+EXC000885,2025-11-06,Delivery,OTIF Failure,Medium,DLV800001230,Delivery failed on-time-in-full requirement,Open
+EXC000886,2025-11-25,Delivery,OTIF Failure,Medium,DLV800001231,Delivery failed on-time-in-full requirement,Open
+EXC000887,2026-05-03,Delivery,OTIF Failure,Medium,DLV800001232,Delivery failed on-time-in-full requirement,Open
+EXC000888,2026-04-03,Delivery,OTIF Failure,High,DLV800001234,Delivery failed on-time-in-full requirement,Open
+EXC000889,2025-09-13,Delivery,OTIF Failure,High,DLV800001235,Delivery failed on-time-in-full requirement,Open
+EXC000890,2025-03-10,Delivery,OTIF Failure,Medium,DLV800001236,Delivery failed on-time-in-full requirement,Open
+EXC000891,2025-07-20,Delivery,OTIF Failure,High,DLV800001237,Delivery failed on-time-in-full requirement,Open
+EXC000892,2025-11-25,Delivery,OTIF Failure,High,DLV800001246,Delivery failed on-time-in-full requirement,Open
+EXC000893,2025-10-29,Delivery,OTIF Failure,Medium,DLV800001252,Delivery failed on-time-in-full requirement,Open
+EXC000894,2025-03-09,Delivery,OTIF Failure,Medium,DLV800001259,Delivery failed on-time-in-full requirement,Open
+EXC000895,2026-03-04,Delivery,OTIF Failure,Medium,DLV800001260,Delivery failed on-time-in-full requirement,Open
+EXC000896,2025-07-10,Delivery,OTIF Failure,Medium,DLV800001262,Delivery failed on-time-in-full requirement,Open
+EXC000897,2025-03-04,Delivery,OTIF Failure,Medium,DLV800001264,Delivery failed on-time-in-full requirement,Open
+EXC000898,2026-04-29,Delivery,OTIF Failure,Medium,DLV800001266,Delivery failed on-time-in-full requirement,Open
+EXC000899,2025-10-04,Delivery,OTIF Failure,Medium,DLV800001269,Delivery failed on-time-in-full requirement,Open
+EXC000900,2025-07-10,Delivery,OTIF Failure,Medium,DLV800001276,Delivery failed on-time-in-full requirement,Open
+EXC000901,2025-11-28,Delivery,OTIF Failure,Medium,DLV800001281,Delivery failed on-time-in-full requirement,Open
+EXC000902,2025-05-20,Delivery,OTIF Failure,High,DLV800001282,Delivery failed on-time-in-full requirement,Open
+EXC000903,2025-02-01,Delivery,OTIF Failure,Medium,DLV800001284,Delivery failed on-time-in-full requirement,Open
+EXC000904,2025-08-18,Delivery,OTIF Failure,Medium,DLV800001285,Delivery failed on-time-in-full requirement,Open
+EXC000905,2026-03-30,Delivery,OTIF Failure,Medium,DLV800001287,Delivery failed on-time-in-full requirement,Open
+EXC000906,2025-06-22,Delivery,OTIF Failure,Medium,DLV800001290,Delivery failed on-time-in-full requirement,Open
+EXC000907,2025-08-14,Delivery,OTIF Failure,High,DLV800001291,Delivery failed on-time-in-full requirement,Open
+EXC000908,2026-03-07,Delivery,OTIF Failure,High,DLV800001294,Delivery failed on-time-in-full requirement,Open
+EXC000909,2026-06-04,Delivery,OTIF Failure,High,DLV800001297,Delivery failed on-time-in-full requirement,Open
+EXC000910,2025-03-14,Delivery,OTIF Failure,Medium,DLV800001303,Delivery failed on-time-in-full requirement,Open
+EXC000911,2025-01-13,Delivery,OTIF Failure,Medium,DLV800001305,Delivery failed on-time-in-full requirement,Open
+EXC000912,2025-08-17,Delivery,OTIF Failure,Medium,DLV800001307,Delivery failed on-time-in-full requirement,Open
+EXC000913,2025-08-24,Delivery,OTIF Failure,Medium,DLV800001313,Delivery failed on-time-in-full requirement,Open
+EXC000914,2026-02-02,Delivery,OTIF Failure,Medium,DLV800001315,Delivery failed on-time-in-full requirement,Open
+EXC000915,2025-03-19,Delivery,OTIF Failure,Medium,DLV800001317,Delivery failed on-time-in-full requirement,Open
+EXC000916,2026-02-18,Delivery,OTIF Failure,Medium,DLV800001318,Delivery failed on-time-in-full requirement,Open
+EXC000917,2025-12-24,Delivery,OTIF Failure,Medium,DLV800001319,Delivery failed on-time-in-full requirement,Open
+EXC000918,2025-04-14,Delivery,OTIF Failure,High,DLV800001321,Delivery failed on-time-in-full requirement,Open
+EXC000919,2025-11-27,Delivery,OTIF Failure,High,DLV800001322,Delivery failed on-time-in-full requirement,Open
+EXC000920,2025-02-18,Delivery,OTIF Failure,Medium,DLV800001324,Delivery failed on-time-in-full requirement,Open
+EXC000921,2026-06-21,Delivery,OTIF Failure,Medium,DLV800001326,Delivery failed on-time-in-full requirement,Open
+EXC000922,2026-05-21,Delivery,OTIF Failure,Medium,DLV800001331,Delivery failed on-time-in-full requirement,Open
+EXC000923,2026-03-02,Delivery,OTIF Failure,High,DLV800001332,Delivery failed on-time-in-full requirement,Open
+EXC000924,2025-04-30,Delivery,OTIF Failure,Medium,DLV800001334,Delivery failed on-time-in-full requirement,Open
+EXC000925,2025-12-27,Delivery,OTIF Failure,Medium,DLV800001339,Delivery failed on-time-in-full requirement,Open
+EXC000926,2026-04-08,Delivery,OTIF Failure,Medium,DLV800001340,Delivery failed on-time-in-full requirement,Open
+EXC000927,2026-04-17,Delivery,OTIF Failure,Medium,DLV800001345,Delivery failed on-time-in-full requirement,Open
+EXC000928,2026-01-11,Delivery,OTIF Failure,High,DLV800001348,Delivery failed on-time-in-full requirement,Open
+EXC000929,2026-06-25,Delivery,OTIF Failure,High,DLV800001350,Delivery failed on-time-in-full requirement,Open
+EXC000930,2025-07-23,Delivery,OTIF Failure,Medium,DLV800001353,Delivery failed on-time-in-full requirement,Open
+EXC000931,2026-01-11,Delivery,OTIF Failure,Medium,DLV800001354,Delivery failed on-time-in-full requirement,Open
+EXC000932,2025-04-29,Delivery,OTIF Failure,Medium,DLV800001356,Delivery failed on-time-in-full requirement,Open
+EXC000933,2025-07-31,Delivery,OTIF Failure,High,DLV800001357,Delivery failed on-time-in-full requirement,Open
+EXC000934,2026-02-09,Delivery,OTIF Failure,Medium,DLV800001358,Delivery failed on-time-in-full requirement,Open
+EXC000935,2025-07-06,Delivery,OTIF Failure,Medium,DLV800001360,Delivery failed on-time-in-full requirement,Open
+EXC000936,2025-10-02,Delivery,OTIF Failure,Medium,DLV800001361,Delivery failed on-time-in-full requirement,Open
+EXC000937,2026-03-01,Delivery,OTIF Failure,Medium,DLV800001363,Delivery failed on-time-in-full requirement,Open
+EXC000938,2026-02-26,Delivery,OTIF Failure,Medium,DLV800001365,Delivery failed on-time-in-full requirement,Open
+EXC000939,2025-09-29,Delivery,OTIF Failure,Medium,DLV800001366,Delivery failed on-time-in-full requirement,Open
+EXC000940,2025-01-07,Delivery,OTIF Failure,Medium,DLV800001368,Delivery failed on-time-in-full requirement,Open
+EXC000941,2025-05-05,Delivery,OTIF Failure,Medium,DLV800001370,Delivery failed on-time-in-full requirement,Open
+EXC000942,2025-08-08,Delivery,OTIF Failure,High,DLV800001371,Delivery failed on-time-in-full requirement,Open
+EXC000943,2026-03-15,Delivery,OTIF Failure,Medium,DLV800001373,Delivery failed on-time-in-full requirement,Open
+EXC000944,2025-07-22,Delivery,OTIF Failure,Medium,DLV800001376,Delivery failed on-time-in-full requirement,Open
+EXC000945,2026-04-25,Delivery,OTIF Failure,Medium,DLV800001378,Delivery failed on-time-in-full requirement,Open
+EXC000946,2025-07-07,Delivery,OTIF Failure,Medium,DLV800001379,Delivery failed on-time-in-full requirement,Open
+EXC000947,2025-02-21,Delivery,OTIF Failure,High,DLV800001381,Delivery failed on-time-in-full requirement,Open
+EXC000948,2026-06-04,Delivery,OTIF Failure,Medium,DLV800001384,Delivery failed on-time-in-full requirement,Open
+EXC000949,2025-08-16,Delivery,OTIF Failure,High,DLV800001387,Delivery failed on-time-in-full requirement,Open
+EXC000950,2025-02-26,Delivery,OTIF Failure,Medium,DLV800001390,Delivery failed on-time-in-full requirement,Open
+EXC000951,2026-06-14,Delivery,OTIF Failure,Medium,DLV800001391,Delivery failed on-time-in-full requirement,Open
+EXC000952,2025-12-05,Delivery,OTIF Failure,Medium,DLV800001398,Delivery failed on-time-in-full requirement,Open
+EXC000953,2025-05-02,Delivery,OTIF Failure,Medium,DLV800001399,Delivery failed on-time-in-full requirement,Open
+EXC000954,2025-07-07,Transportation,High Freight Cost,Medium,SHP900000003,Freight cost exceeds portfolio threshold,Open
+EXC000955,2025-01-24,Transportation,High Freight Cost,Medium,SHP900000020,Freight cost exceeds portfolio threshold,Open
+EXC000956,2025-10-31,Transportation,High Freight Cost,Medium,SHP900000022,Freight cost exceeds portfolio threshold,Open
+EXC000957,2025-06-11,Transportation,High Freight Cost,Medium,SHP900000061,Freight cost exceeds portfolio threshold,Open
+EXC000958,2025-10-18,Transportation,High Freight Cost,Medium,SHP900000107,Freight cost exceeds portfolio threshold,Open
+EXC000959,2025-08-17,Transportation,High Freight Cost,Medium,SHP900000119,Freight cost exceeds portfolio threshold,Open
+EXC000960,2025-12-09,Transportation,High Freight Cost,Medium,SHP900000126,Freight cost exceeds portfolio threshold,Open
+EXC000961,2025-11-17,Transportation,High Freight Cost,Medium,SHP900000167,Freight cost exceeds portfolio threshold,Open
+EXC000962,2026-03-05,Transportation,High Freight Cost,Medium,SHP900000177,Freight cost exceeds portfolio threshold,Open
+EXC000963,2026-06-10,Transportation,High Freight Cost,Medium,SHP900000199,Freight cost exceeds portfolio threshold,Open
+EXC000964,2026-01-08,Transportation,High Freight Cost,Medium,SHP900000229,Freight cost exceeds portfolio threshold,Open
+EXC000965,2026-04-10,Transportation,High Freight Cost,Medium,SHP900000259,Freight cost exceeds portfolio threshold,Open
+EXC000966,2025-12-08,Transportation,High Freight Cost,Medium,SHP900000284,Freight cost exceeds portfolio threshold,Open
+EXC000967,2025-11-08,Transportation,High Freight Cost,Medium,SHP900000307,Freight cost exceeds portfolio threshold,Open
+EXC000968,2026-04-04,Transportation,High Freight Cost,Medium,SHP900000323,Freight cost exceeds portfolio threshold,Open
+EXC000969,2025-06-15,Transportation,High Freight Cost,Medium,SHP900000334,Freight cost exceeds portfolio threshold,Open
+EXC000970,2025-03-20,Transportation,High Freight Cost,Medium,SHP900000338,Freight cost exceeds portfolio threshold,Open
+EXC000971,2025-01-15,Transportation,High Freight Cost,Medium,SHP900000383,Freight cost exceeds portfolio threshold,Open
+EXC000972,2025-01-28,Transportation,High Freight Cost,Medium,SHP900000388,Freight cost exceeds portfolio threshold,Open
+EXC000973,2025-08-17,Transportation,High Freight Cost,Medium,SHP900000439,Freight cost exceeds portfolio threshold,Open
+EXC000974,2025-02-14,Transportation,High Freight Cost,Medium,SHP900000461,Freight cost exceeds portfolio threshold,Open
+EXC000975,2025-01-09,Transportation,High Freight Cost,Medium,SHP900000476,Freight cost exceeds portfolio threshold,Open
+EXC000976,2026-04-17,Transportation,High Freight Cost,Medium,SHP900000480,Freight cost exceeds portfolio threshold,Open
+EXC000977,2025-06-07,Transportation,High Freight Cost,Medium,SHP900000484,Freight cost exceeds portfolio threshold,Open
+EXC000978,2025-02-25,Transportation,High Freight Cost,Medium,SHP900000499,Freight cost exceeds portfolio threshold,Open
+EXC000979,2026-03-18,Transportation,High Freight Cost,Medium,SHP900000507,Freight cost exceeds portfolio threshold,Open
+EXC000980,2025-05-18,Transportation,High Freight Cost,Medium,SHP900000521,Freight cost exceeds portfolio threshold,Open
+EXC000981,2026-03-06,Transportation,High Freight Cost,Medium,SHP900000538,Freight cost exceeds portfolio threshold,Open
+EXC000982,2025-09-16,Transportation,High Freight Cost,Medium,SHP900000546,Freight cost exceeds portfolio threshold,Open
+EXC000983,2025-10-02,Transportation,High Freight Cost,Medium,SHP900000607,Freight cost exceeds portfolio threshold,Open
+EXC000984,2025-11-20,Transportation,High Freight Cost,Medium,SHP900000614,Freight cost exceeds portfolio threshold,Open
+EXC000985,2025-02-15,Transportation,High Freight Cost,Medium,SHP900000620,Freight cost exceeds portfolio threshold,Open
+EXC000986,2026-02-15,Transportation,High Freight Cost,Medium,SHP900000628,Freight cost exceeds portfolio threshold,Open
+EXC000987,2025-01-12,Transportation,High Freight Cost,Medium,SHP900000630,Freight cost exceeds portfolio threshold,Open
+EXC000988,2025-11-02,Transportation,High Freight Cost,Medium,SHP900000633,Freight cost exceeds portfolio threshold,Open
+EXC000989,2026-03-03,Transportation,High Freight Cost,Medium,SHP900000652,Freight cost exceeds portfolio threshold,Open
+EXC000990,2025-07-24,Transportation,High Freight Cost,Medium,SHP900000675,Freight cost exceeds portfolio threshold,Open
+EXC000991,2025-04-10,Transportation,High Freight Cost,Medium,SHP900000713,Freight cost exceeds portfolio threshold,Open
+EXC000992,2025-12-19,Transportation,High Freight Cost,Medium,SHP900000725,Freight cost exceeds portfolio threshold,Open
+EXC000993,2025-09-30,Transportation,High Freight Cost,Medium,SHP900000772,Freight cost exceeds portfolio threshold,Open
+EXC000994,2025-12-06,Transportation,High Freight Cost,Medium,SHP900000796,Freight cost exceeds portfolio threshold,Open
+EXC000995,2026-05-20,Transportation,High Freight Cost,Medium,SHP900000821,Freight cost exceeds portfolio threshold,Open
+EXC000996,2026-05-01,Transportation,High Freight Cost,Medium,SHP900000866,Freight cost exceeds portfolio threshold,Open
+EXC000997,2026-03-05,Transportation,High Freight Cost,Medium,SHP900000949,Freight cost exceeds portfolio threshold,Open
+EXC000998,2026-04-29,Transportation,High Freight Cost,Medium,SHP900000950,Freight cost exceeds portfolio threshold,Open
+EXC000999,2025-06-02,Transportation,High Freight Cost,Medium,SHP900000960,Freight cost exceeds portfolio threshold,Open
+EXC001000,2025-05-07,Transportation,High Freight Cost,Medium,SHP900001032,Freight cost exceeds portfolio threshold,Open
+EXC001001,2025-03-01,Transportation,High Freight Cost,Medium,SHP900001040,Freight cost exceeds portfolio threshold,Open
+EXC001002,2026-02-04,Transportation,High Freight Cost,Medium,SHP900001052,Freight cost exceeds portfolio threshold,Open
+EXC001003,2025-07-13,Transportation,High Freight Cost,Medium,SHP900001062,Freight cost exceeds portfolio threshold,Open
+EXC001004,2025-10-13,Transportation,High Freight Cost,Medium,SHP900001077,Freight cost exceeds portfolio threshold,Open
+EXC001005,2026-06-13,Transportation,High Freight Cost,Medium,SHP900001090,Freight cost exceeds portfolio threshold,Open
+EXC001006,2025-01-04,Transportation,High Freight Cost,Medium,SHP900001101,Freight cost exceeds portfolio threshold,Open
+EXC001007,2025-06-17,Transportation,High Freight Cost,Medium,SHP900001111,Freight cost exceeds portfolio threshold,Open
+EXC001008,2026-03-27,Transportation,High Freight Cost,Medium,SHP900001136,Freight cost exceeds portfolio threshold,Open
+EXC001009,2026-04-20,Transportation,High Freight Cost,Medium,SHP900001137,Freight cost exceeds portfolio threshold,Open
+EXC001010,2026-03-06,Transportation,High Freight Cost,Medium,SHP900001178,Freight cost exceeds portfolio threshold,Open
+EXC001011,2025-06-18,Transportation,High Freight Cost,Medium,SHP900001179,Freight cost exceeds portfolio threshold,Open
+EXC001012,2025-03-10,Transportation,High Freight Cost,Medium,SHP900001195,Freight cost exceeds portfolio threshold,Open
+EXC001013,2026-05-19,Transportation,High Freight Cost,Medium,SHP900001217,Freight cost exceeds portfolio threshold,Open
+EXC001014,2025-11-16,Transportation,High Freight Cost,Medium,SHP900001246,Freight cost exceeds portfolio threshold,Open
+EXC001015,2025-01-18,Transportation,High Freight Cost,Medium,SHP900001250,Freight cost exceeds portfolio threshold,Open
+EXC001016,2025-07-07,Transportation,High Freight Cost,Medium,SHP900001262,Freight cost exceeds portfolio threshold,Open
+EXC001017,2025-05-27,Transportation,High Freight Cost,Medium,SHP900001308,Freight cost exceeds portfolio threshold,Open
+EXC001018,2025-11-17,Transportation,High Freight Cost,Medium,SHP900001372,Freight cost exceeds portfolio threshold,Open
+EXC001019,2026-04-25,Transportation,High Freight Cost,Medium,SHP900001377,Freight cost exceeds portfolio threshold,Open
+EXC001020,2025-09-30,Transportation,High Freight Cost,Medium,SHP900001385,Freight cost exceeds portfolio threshold,Open
+EXC001021,2025-11-30,Transportation,High Freight Cost,Medium,SHP900001389,Freight cost exceeds portfolio threshold,Open
+EXC001022,2025-11-30,Transportation,High Freight Cost,Medium,SHP900001392,Freight cost exceeds portfolio threshold,Open
+EXC001023,2026-06-02,Transportation,High Freight Cost,Medium,SHP900001396,Freight cost exceeds portfolio threshold,Open

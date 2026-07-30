@@ -1,0 +1,25 @@
+﻿SupplierID,SupplierName,Country,LeadTimeDays,OTDTarget,ReliabilityScore
+SUP001,"Rodriguez, Figueroa and Sanchez",China,33,0.925,0.929
+SUP002,Doyle Ltd,Italy,14,0.915,0.928
+SUP003,"Mcclain, Miller and Henderson",Germany,12,0.978,0.947
+SUP004,Davis and Sons,Germany,11,0.929,0.84
+SUP005,"Guzman, Hoffman and Baldwin",China,32,0.922,0.975
+SUP006,"Gardner, Robinson and Lawrence",Netherlands,13,0.956,0.805
+SUP007,Blake and Sons,Italy,19,0.908,0.782
+SUP008,"Henderson, Ramirez and Lewis",Germany,15,0.938,0.848
+SUP009,Garcia-James,Finland,7,0.975,0.876
+SUP010,Abbott-Munoz,Italy,13,0.932,0.795
+SUP011,Blair PLC,China,30,0.912,0.942
+SUP012,Dudley Group,Germany,9,0.98,0.804
+SUP013,Arnold Ltd,Italy,18,0.949,0.938
+SUP014,"Mcclure, Ward and Lee",Sweden,11,0.936,0.869
+SUP015,Williams and Sons,Italy,18,0.924,0.904
+SUP016,Galloway-Wyatt,Netherlands,10,0.976,0.822
+SUP017,James Group,Sweden,9,0.953,0.811
+SUP018,"Flowers, Martin and Kelly",Sweden,6,0.913,0.862
+SUP019,"Adams, Zuniga and Wong",China,37,0.923,0.826
+SUP020,"Reid, Ferguson and Sanchez",China,34,0.956,0.871
+SUP021,Gray-Mayo,China,33,0.974,0.938
+SUP022,"Watts, Robinson and Nguyen",China,33,0.934,0.889
+SUP023,Perez Inc,China,32,0.973,0.945
+SUP024,Morales-Jones,Finland,3,0.913,0.842

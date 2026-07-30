@@ -1,0 +1,9 @@
+﻿CarrierID,CarrierName,TransportMode,ReliabilityScore
+CAR01,DHL Freight,Road,0.92
+CAR02,DB Schenker,Road,0.9
+CAR03,DSV,Road,0.93
+CAR04,Kuehne+Nagel,Road,0.91
+CAR05,FedEx,Air,0.94
+CAR06,UPS,Air,0.93
+CAR07,Maersk,Sea,0.84
+CAR08,MSC,Sea,0.82
