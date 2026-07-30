@@ -16,5 +16,5 @@ Inventory valuation, ABC classification, stock turnover and warehouse KPIs.
 ### [Transportation Cost Dashboard](./Transportation-Cost-Dashboard/) 
 Carrier comparison, freight costs, transit times and logistics KPIs.
 
-### [SAP Logistics Control Tower](./Sap-Logistics-Control-Tower/)
+### [SAP Logistics Control Tower](./Sap-Logistics-Control-Tower/) Under construction 👨‍💻
 Procurement, inventory and transportation analytics inspired by SAP processes.
